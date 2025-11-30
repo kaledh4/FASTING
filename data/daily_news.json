@@ -1,5 +1,136 @@
 {
-  "updated_at": "2025-11-30T10:57:03.537486",
-  "tip": "نصيحة اليوم: المشي لمدة 30 دقيقة يومياً يقلل من خطر الإصابة بأمراض القلب.",
-  "articles": []
+  "updated_at": "2025-11-30T11:10:15.133273",
+  "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "غازات البطن..هكذا تتخلص من الانتفاخات المتكررة بخطوات بسيطة",
+      "description": "هل تُعاني من الغازات أو الانتفاخات بشكل مُتكرّر؟ قد يُشير ذلك إلى وجود خلل في صحة الجهاز الهضمي، مثل ضعف الامتصاص داخل الأمعاء أو تأثر البطانة الداخلية، بحسب ما ذكره الطبيب أحمد كمال، وهو استشاري طب وقائي وصحة عامة، في مقابلة مع موقع CNN بالعربية.",
+      "url": "https://arabic.cnn.com/science-and-health/video/2025/11/28/v184668-nutrition-tips-ahmed-bloating-solutions",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_133,y_517,w_4351,h_2447,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/11/26/images/316167.jpg",
+      "publishedAt": "2025-11-28T09:31:01Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "صحة غزة: إسرائيل تسمح بدخول بضائع ترفيهية وتمنع الأدوية",
+      "description": "قال المدير العام لوزارة الصحة في قطاع غزة منير البرش، الأربعاء، إن إسرائيل تسمح بدخول البضائع الترفيهية إلى القطاع، وتمنع الأدوية والمستلزمات الطبية الأساسية عن المستشفيات.",
+      "url": "https://www.aljazeera.net/health/2025/11/27/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d8%aa%d8%b3%d9%85%d8%ad-%d8%a8%d8%af%d8%ae%d9%88%d9%84-%d8%a8%d8%b6%d8%a7%d8%a6%d8%b9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/11/image-1764228997.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-11-27T04:37:01Z",
+      "content": ".\r\n 350 .\r\n .\r\n .\r\n .\r\n 54% 40% 71% .\r\n 82% 18 100 .\r\n 1000 6 .\r\n .\r\n 70 69 171 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "للحفاظ على صحة دماغك تحتاج عضلات أكثر ودهونا أقل",
+      "description": "وجد باحثون ارتباطا بين امتلاك الشخص لكتلة عضلية كبيرة مع نسبة دهون حشوية أقل وصحة الدماغ.",
+      "url": "https://www.aljazeera.net/health/2025/11/25/%d9%84%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b5%d8%ad%d8%a9-%d8%af%d9%85%d8%a7%d8%ba%d9%83-%d8%aa%d8%ad%d8%aa%d8%a7%d8%ac-%d8%b9%d8%b6%d9%84%d8%a7%d8%aa-%d8%a3%d9%83%d8%ab%d8%b1",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2019/08/fe7409be-8e00-4409-be00-e3f7ef284110.jpeg?resize=1200%2C630",
+      "publishedAt": "2025-11-25T08:14:25Z",
+      "content": "()\r\n.\r\n .\r\n 30 / 4 / .\r\n .\r\n \" \".\r\n .\r\n .\r\n \" \".\r\n : \" \".\r\n 1164 4 ( ) .\r\n 1 (GLP-1) .\r\n   .\r\n \" - - \"."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "السمسم الأبيض أم الأسود.. أيهما أفضل لصحتك؟",
+      "description": "ينقسم السمسم إلى نوعين مختلفين، لكلٍّ منهما خصائصه المميزة وفوائده الفريدة؟\r\nيُعدّ السمسم الأبيض غنيًّا بالكالسيوم والطاقة، ما يجعله مفيدًا جدًا لصحة العظام، والعضلات، والبشرة. أما السمسم الأسود، والذي يختلف تمامًا عن حبة البركة، فيحتوي على نسبة عالية من مُضا…",
+      "url": "https://arabic.cnn.com/science-and-health/video/2025/11/25/v183509-nutrition-tips-bachir-white-vs-black-sesame",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_29,w_3902,h_2195,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/11/05/images/314464.jpg",
+      "publishedAt": "2025-11-25T07:54:35Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "مدير صحة غزة: رصيدنا الدوائي صفر وألف مريض توفوا بانتظار العلاج بالخارج",
+      "description": "بعد أسابيع على توقف الحرب، يكشف مدير لصحة غزة الدكتور منير البرش صورة قاتمة لواقع صحي يواصل الانهيار، حيث تبدو المستشفيات بلا إمكانات، ورصيد الدواء يلامس الصفر، بينما يموت المرضى وهم ينتظرون العلاج.",
+      "url": "https://www.aljazeera.net/news/2025/11/21/%d9%85%d8%af%d9%8a%d8%b1-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%b1%d8%b5%d9%8a%d8%af%d9%86%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%a7%d8%a6%d9%8a-%d8%b5%d9%81%d8%b1-%d9%88%d8%a3%d9%84%d9%81",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/11/image-1763743828.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-11-21T13:52:42Z",
+      "content": ".\r\n . \" \" .\r\n \" \" 84% 40% 71%.\r\n . .\r\n 5 . \" \" .\r\n 71% 90% .\r\n 82% .\r\n 18 7 5 .\r\n .\r\n 54% 71% .\r\n .\r\n \" \".\r\n .\r\n 6 \" \" .\r\n . .\r\n ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "كيف تضمن صحة أفضل في السبعينيات؟ خطوات بسيطة تبدأ في الثلاثينيات",
+      "description": "يمكن لعادات بسيطة في الثلاثينيات مثل المشي المنتظم، النوم الجيد، وتحسين نمط الحياة أن تؤثر بشكل كبير على صحتك في السبعينيات.",
+      "url": "https://www.bbc.com/arabic/articles/cy9p9vlxlwzo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/36d1/live/372c5070-c597-11f0-a892-01d657345866.jpg",
+      "publishedAt": "2025-11-20T04:21:46Z",
+      "content": "Getty Images\r\nArticle Information\r\n 15 .\r\n .\r\n .\r\n \"\" : \" 90 95 \".\r\n \" 65 70 \".\r\n.\r\n .\r\n \"\" \" \": \" \".\r\n. \r\n .\r\nGetty Images\r\n. \r\n .\r\n : \" \".\r\n ( ) .\r\n .\r\n : \" \".\r\n 2025 .\r\n 75 .\r\n .\r\n .\r\n: \" 15 \".\r\n … [+252 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "نستله تواجه اتهامات بتعريض صحة الرضّع للخطر في قارات عدة",
+      "description": "كشف تقرير جديد أن منتجات غذائية للأطفال تسوقها \"نستله\" تحتوي على مستويات مرتفعة من السكر والملح، مما يزيد مخاطر السمنة وأمراض القلب للأطفال في أسواق هشة.",
+      "url": "https://www.aljazeera.net/health/2025/11/19/%d9%86%d8%b3%d8%aa%d9%84%d9%87-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a7%d8%aa%d9%87%d8%a7%d9%85%d8%a7%d8%aa-%d8%a8%d8%aa%d8%b9%d8%b1%d9%8a%d8%b6-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%b1%d8%b6%d8%b9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2014/05/b96179e5-b2e5-4c16-a089-feb8e09bf48f.jpeg?resize=1200%2C675",
+      "publishedAt": "2025-11-19T12:13:28Z",
+      "content": "\"\" ( )\r\n.\r\n \"\" .\r\nlist of 2 items<ul><li>list 1 of 2</li><li>list 2 of 2 .. </li></ul>end of list\r\n - - .\r\n ()\r\n.\r\n .\r\n \"\" .\r\n \"\" .\r\n .\r\n .\r\n \"\" ()\r\n.\r\n .\r\n \"\" .\r\n ."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "كيف يمكن الحفاظ على صحة الأمعاء؟",
+      "description": "تُعد الأمعاء جزءًا أساسيًا من الجهاز الهضمي، وتشمل المعدة، والأمعاء الدقيقة، والقولون، وتكمن وظيفتها في هضم الطعام، وامتصاص العناصر الغذائية، والتخلص من الفضلات من الجسم.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2025/11/19/how-can-gut-health-be-maintained",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/11/06/images/314611.jpg",
+      "publishedAt": "2025-11-19T08:14:08Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "‫مصابيح ضوء النهار .. هل تُعالج اكتئاب الشتاء؟",
+      "description": "يعتقد الكثيرون بأن مصابيح ضوء ‫النهار  تساعد في علاج الاضطراب العاطفي الموسمي المعروف أيضا باسم ‫اكتئاب الشتاء. فما مدى صحة هذا الاعتقاد؟",
+      "url": "https://www.aljazeera.net/health/2025/11/18/%d9%85%d8%b5%d8%a7%d8%a8%d9%8a%d8%ad-%d8%b6%d9%88%d8%a1-%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1-%d9%87%d9%84-%d8%aa%d8%b9%d8%a7%d9%84%d8%ac-%d8%a7%d9%83%d8%aa%d8%a6%d8%a7%d8%a8",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/11/shutterstock_2161634953-1699865023.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-11-18T11:07:00Z",
+      "content": "()\r\n  . \r\n 19 .\r\n- 10000 30 . 10 .\r\n- . .\r\n . .\r\n- .\r\n- .\r\n 60% . /.\r\n . ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "شادي عبد الحافظ",
+      "title": "المذنب الضيف \"3آي/أطلس\".. لم لا يمكن اعتباره مركبة فضائية؟",
+      "description": "يقول البعض إن 3آي/أطلس هو مركبة فضائية أو مسبار أرسلته حضارة مجهولة، ما مدى صحة هذه الادعاءات؟ وما الأدلة العلمية التي تثبت أن 3آي/أطلس ليس مركبة فضائية، بل مذنبا طبيعيا؟",
+      "url": "https://www.aljazeera.net/science/2025/11/18/%d8%a7%d9%84%d9%85%d8%b0%d9%86%d8%a8-%d8%a7%d9%84%d8%b6%d9%8a%d9%81-3%d8%a2%d9%8a-%d8%a3%d8%b7%d9%84%d8%b3-%d9%84%d9%85-%d9%84%d8%a7-%d9%8a%d9%85%d9%83%d9%86",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/11/B-1763383515.jpg?resize=1200%2C630",
+      "publishedAt": "2025-11-18T08:29:18Z",
+      "content": "3/ ()\r\n3/ / 2025 .\r\n \"\"\r\n 3/ \r\n ()\r\n3/ \"\" .\r\n \" \" .\r\n .\r\n .\r\n .\r\n ()\r\n.\r\n : \" \".\r\n 3/ \"\" .\r\n \"\" 3/ .\r\n \"\" .\r\n 3/ . \" \" .\r\n 3/ .\r\n 11 .\r\n .\r\n .\r\n 4.5 .\r\n 3/ ()\r\n3/ 40% .\r\n \"\" .\r\n 3/   .\r\n .\r\n 10 4 :\r\n… [+21 chars]"
+    }
+  ]
 }
