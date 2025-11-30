@@ -37,7 +37,30 @@ const els = {
 };
 
 // --- Initialization ---
-function init() {
+async function init() {
+    // Check authentication first
+    try {
+        await fastDB.init();
+        const isLoggedIn = await fastDB.isLoggedIn();
+
+        if (!isLoggedIn) {
+            window.location.href = 'login.html';
+            return;
+        }
+
+        // Load user data
+        const user = await fastDB.getCurrentUser();
+        const profile = await fastDB.getProfile(user.id);
+
+        // Update UI with user name
+        if (els.userNameDisplay) {
+            els.userNameDisplay.textContent = profile.name || 'يا بطل';
+        }
+    } catch (error) {
+        console.error('Authentication error:', error);
+        // If db.js is not loaded, continue without auth (backward compatibility)
+    }
+
     setupNavigation();
     setupDate();
     loadUserData();
@@ -188,12 +211,41 @@ function updateTimer(session) {
     } else {
         els.timerDisplay.textContent = '+' + formatDuration(Math.abs(remaining));
         els.timerStatus.textContent = 'تجاوزت الهدف!';
+
+        // Send notification when goal reached (only once)
+        if (!session.notificationSent && Math.abs(remaining) < 1000) {
+            sendFastingCompleteNotification(session.goalHours);
+            session.notificationSent = true;
+            Storage.saveCurrentSession(session);
+        }
     }
 
     // Update Circle
     const progress = Math.min(elapsed / totalGoal, 1);
     const offset = CIRCLE_CIRCUMFERENCE - (progress * CIRCLE_CIRCUMFERENCE);
     els.progressCircle.style.strokeDashoffset = offset;
+}
+
+// Request notification permission and send notification
+async function sendFastingCompleteNotification(hours) {
+    if (!('Notification' in window)) return;
+
+    if (Notification.permission === 'granted') {
+        new Notification('🎉 تهانينا!', {
+            body: `أكملت ${hours} ساعة من الصيام! وجبة هنيئة 😋`,
+            icon: 'pwa/icon.svg',
+            badge: 'pwa/icon.svg',
+            vibrate: [200, 100, 200]
+        });
+    } else if (Notification.permission !== 'denied') {
+        const permission = await Notification.requestPermission();
+        if (permission === 'granted') {
+            new Notification('🎉 تهانينا!', {
+                body: `أكملت ${hours} ساعة من الصيام! وجبة هنيئة 😋`,
+                icon: 'pwa/icon.svg'
+            });
+        }
+    }
 }
 
 // --- Dashboard ---
@@ -292,18 +344,41 @@ async function fetchDailyNews() {
             els.dailyTip.textContent = data.tip;
         }
 
-        // Update News Feed
+        // Update News Feed - Filter out Gaza/political news
         if (data.articles && data.articles.length > 0) {
-            els.newsContainer.innerHTML = data.articles.map(article => `
-                <div class="news-card">
-                    <div class="news-image" style="background-image: url('${article.urlToImage || 'https://via.placeholder.com/300?text=Health'}')"></div>
-                    <div class="news-content">
-                        <h4 class="news-title">${article.title}</h4>
-                        <p class="news-excerpt">${article.description || ''}</p>
-                        <a href="${article.url}" target="_blank" class="text-sm text-blue-500 mt-2 block">اقرأ المزيد</a>
+            // Keywords to filter out (Gaza, Israel, political content)
+            const excludeKeywords = [
+                'غزة', 'gaza', 'إسرائيل', 'israel', 'فلسطين', 'palestine',
+                'حرب', 'war', 'قصف', 'bombing', 'صاروخ', 'rocket',
+                'حماس', 'hamas', 'الاحتلال', 'occupation', 'مستوطن',
+                'نتنياهو', 'netanyahu', 'سياسي', 'political'
+            ];
+
+            // Filter articles
+            const healthArticles = data.articles.filter(article => {
+                const title = (article.title || '').toLowerCase();
+                const description = (article.description || '').toLowerCase();
+                const content = title + ' ' + description;
+
+                // Check if article contains any excluded keywords
+                return !excludeKeywords.some(keyword => content.includes(keyword.toLowerCase()));
+            });
+
+            if (healthArticles.length > 0) {
+                els.newsContainer.innerHTML = healthArticles.map(article => `
+                    <div class="news-card">
+                        <div class="news-image" style="background-image: url('${article.urlToImage || 'https://via.placeholder.com/300?text=Health'}')"></div>
+                        <div class="news-content">
+                            <h4 class="news-title">${article.title}</h4>
+                            <p class="news-excerpt">${article.description || ''}</p>
+                            <a href="${article.url}" target="_blank" class="text-sm text-blue-500 mt-2 block">اقرأ المزيد</a>
+                        </div>
                     </div>
-                </div>
-            `).join('');
+                `).join('');
+            } else {
+                // If all articles were filtered out, show fallback
+                els.newsContainer.innerHTML = '<div class="text-center p-4 text-gray-400">لا توجد أخبار صحية متاحة حالياً</div>';
+            }
         }
     } catch (error) {
         console.log('Using fallback data', error);
