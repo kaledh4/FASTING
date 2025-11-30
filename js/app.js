@@ -73,7 +73,7 @@ function setupNavigation() {
 
 function setupDate() {
     const options = { weekday: 'long', month: 'long', day: 'numeric' };
-    els.currentDate.textContent = new Date().toLocaleDateString('ar-EG', options);
+    els.currentDate.textContent = new Date().toLocaleDateString('ar-EG-u-nu-latn', options);
 }
 
 // --- User Data ---
@@ -265,7 +265,7 @@ function renderHistoryList(history) {
     }
 
     history.forEach(item => {
-        const date = new Date(item.endTime).toLocaleDateString('ar-EG');
+        const date = new Date(item.endTime).toLocaleDateString('ar-EG-u-nu-latn');
         const duration = Math.floor(item.duration * 10) / 10;
 
         const li = document.createElement('li');
@@ -348,7 +348,7 @@ function formatDuration(ms) {
 }
 
 function formatTimeShort(ms) {
-    return new Date(ms).toLocaleTimeString('ar-EG', { hour: '2-digit', minute: '2-digit' });
+    return new Date(ms).toLocaleTimeString('ar-EG-u-nu-latn', { hour: '2-digit', minute: '2-digit' });
 }
 
 function pad(num) {
