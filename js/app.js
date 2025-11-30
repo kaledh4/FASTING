@@ -38,27 +38,24 @@ const els = {
 
 // --- Initialization ---
 async function init() {
-    // Check authentication first
+    // Optional authentication - app works without login
     try {
         await fastDB.init();
         const isLoggedIn = await fastDB.isLoggedIn();
 
-        if (!isLoggedIn) {
-            window.location.href = 'login.html';
-            return;
-        }
+        if (isLoggedIn) {
+            // Load user data if logged in
+            const user = await fastDB.getCurrentUser();
+            const profile = await fastDB.getProfile(user.id);
 
-        // Load user data
-        const user = await fastDB.getCurrentUser();
-        const profile = await fastDB.getProfile(user.id);
-
-        // Update UI with user name
-        if (els.userNameDisplay) {
-            els.userNameDisplay.textContent = profile.name || 'يا بطل';
+            // Update UI with user name
+            if (els.userNameDisplay) {
+                els.userNameDisplay.textContent = profile.name || 'يا بطل';
+            }
         }
     } catch (error) {
         console.error('Authentication error:', error);
-        // If db.js is not loaded, continue without auth (backward compatibility)
+        // Continue without auth - app works fine with localStorage
     }
 
     setupNavigation();

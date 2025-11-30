@@ -73,11 +73,11 @@ class FastDB {
      * Register a new user
      */
     async register(username, email, password) {
+        // Hash password BEFORE creating transaction
+        const hashedPassword = await this.hashPassword(password);
+
         const transaction = this.db.transaction(['users'], 'readwrite');
         const store = transaction.objectStore('users');
-
-        // Hash password (simple hash for demo - use bcrypt in production)
-        const hashedPassword = await this.hashPassword(password);
 
         const user = {
             username,
@@ -106,7 +106,7 @@ class FastDB {
 
         // Try to find by email first
         let user = await this.getUserByEmail(emailOrUsername);
-        
+
         // If not found, try username
         if (!user) {
             user = await this.getUserByUsername(emailOrUsername);
