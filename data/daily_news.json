@@ -1,0 +1,18 @@
+{
+    "updated_at": "2023-10-27T10:00:00",
+    "tip": "ابدأ يومك بكوب من الماء الدافئ والليمون لتعزيز المناعة.",
+    "articles": [
+        {
+            "title": "5 فوائد مذهلة للصيام المتقطع",
+            "description": "اكتشف كيف يمكن للصيام المتقطع أن يحسن صحتك العقلية والجسدية.",
+            "url": "#",
+            "urlToImage": "https://images.unsplash.com/photo-1544367563-12123d8965cd?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+        },
+        {
+            "title": "أفضل الأطعمة لكسر الصيام",
+            "description": "تعرف على الأطعمة المثالية التي يجب تناولها بعد فترة صيام طويلة.",
+            "url": "#",
+            "urlToImage": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+        }
+    ]
+}
