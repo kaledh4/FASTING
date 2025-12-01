@@ -1,10 +1,9 @@
-const CACHE_NAME = 'fast-track-v1';
+const CACHE_NAME = 'fast-track-v2';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
     './css/style.css',
     './js/app.js',
-    './js/storage.js',
     './manifest.json',
     './pwa/icon.svg'
 ];

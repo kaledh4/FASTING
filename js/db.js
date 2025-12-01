@@ -192,23 +192,6 @@ class FastDB {
         });
     }
 
-    async updateLastLogin(userId) {
-        // Get user first, THEN create transaction
-        const user = await this.getUserById(userId);
-        user.lastLogin = Date.now();
-
-        const transaction = this.db.transaction(['users'], 'readwrite');
-        const store = transaction.objectStore('users');
-
-        return new Promise((resolve, reject) => {
-            const request = store.put(user);
-            request.onsuccess = () => resolve();
-            request.onerror = () => reject(request.error);
-        });
-    }
-
-    // ==================== AUTH STATE METHODS ====================
-
     async saveAuthState(userId) {
         const transaction = this.db.transaction(['authState'], 'readwrite');
         const store = transaction.objectStore('authState');

@@ -1,9 +1,11 @@
 /**
  * Main Application Logic
+ * Refactored to use IndexedDB (fastDB) for robust data persistence
  */
 
 // --- State & Constants ---
 let timerInterval = null;
+let currentUser = null; // Store current user object
 const CIRCLE_CIRCUMFERENCE = 2 * Math.PI * 110; // r=110
 
 // --- DOM Elements ---
@@ -38,37 +40,42 @@ const els = {
 
 // --- Initialization ---
 async function init() {
-    // Optional authentication - app works without login
     try {
         await fastDB.init();
+
+        // Check authentication
         const isLoggedIn = await fastDB.isLoggedIn();
-
-        if (isLoggedIn) {
-            // Load user data if logged in
-            const user = await fastDB.getCurrentUser();
-            const profile = await fastDB.getProfile(user.id);
-
-            // Update UI with user name
-            if (els.userNameDisplay) {
-                els.userNameDisplay.textContent = profile.name || 'يا بطل';
-            }
+        if (!isLoggedIn) {
+            window.location.href = 'login.html';
+            return;
         }
+
+        // Load current user
+        currentUser = await fastDB.getCurrentUser();
+        if (!currentUser) {
+            window.location.href = 'login.html';
+            return;
+        }
+
+        console.log('Logged in as:', currentUser.username);
+
+        // Initialize UI
+        setupNavigation();
+        setupDate();
+        await loadUserData();
+        await checkFastingStatus();
+        await loadDashboard();
+        fetchDailyNews();
+        setupSettings();
+
+        // Set initial circle dasharray
+        els.progressCircle.style.strokeDasharray = `${CIRCLE_CIRCUMFERENCE} ${CIRCLE_CIRCUMFERENCE}`;
+        els.progressCircle.style.strokeDashoffset = CIRCLE_CIRCUMFERENCE;
+
     } catch (error) {
-        console.error('Authentication error:', error);
-        // Continue without auth - app works fine with localStorage
+        console.error('Initialization error:', error);
+        showToast('حدث خطأ في تحميل البيانات');
     }
-
-    setupNavigation();
-    setupDate();
-    loadUserData();
-    checkFastingStatus();
-    loadDashboard();
-    fetchDailyNews();
-    setupSettings();
-
-    // Set initial circle dasharray
-    els.progressCircle.style.strokeDasharray = `${CIRCLE_CIRCUMFERENCE} ${CIRCLE_CIRCUMFERENCE}`;
-    els.progressCircle.style.strokeDashoffset = CIRCLE_CIRCUMFERENCE;
 }
 
 // --- Navigation ---
@@ -97,18 +104,24 @@ function setupDate() {
 }
 
 // --- User Data ---
-function loadUserData() {
-    const profile = Storage.getUserProfile();
-    els.userName.textContent = profile.name;
-    els.settingName.value = profile.name;
+async function loadUserData() {
+    if (!currentUser) return;
 
-    const settings = Storage.getSettings();
-    els.settingGoal.value = settings.goalHours;
-    els.settingTheme.value = settings.theme || 'light';
+    try {
+        const profile = await fastDB.getProfile(currentUser.id);
+        els.userName.textContent = profile.name || 'يا بطل';
+        els.settingName.value = profile.name || '';
 
-    // Apply settings immediately
-    els.timerGoalText.textContent = `الهدف: ${settings.goalHours} ساعة`;
-    applyTheme(settings.theme || 'light');
+        const settings = await fastDB.getSettings(currentUser.id);
+        els.settingGoal.value = settings.goalHours;
+        els.settingTheme.value = settings.theme || 'light';
+
+        // Apply settings immediately
+        els.timerGoalText.textContent = `الهدف: ${settings.goalHours} ساعة`;
+        applyTheme(settings.theme || 'light');
+    } catch (error) {
+        console.error('Error loading user data:', error);
+    }
 }
 
 function applyTheme(theme) {
@@ -116,54 +129,74 @@ function applyTheme(theme) {
 }
 
 // --- Fasting Logic ---
-function checkFastingStatus() {
-    const session = Storage.getCurrentSession();
-    if (session) {
-        startTimerUI(session);
-    } else {
-        resetTimerUI();
+async function checkFastingStatus() {
+    if (!currentUser) return;
+
+    try {
+        const session = await fastDB.getCurrentSession(currentUser.id);
+        if (session) {
+            startTimerUI(session);
+        } else {
+            resetTimerUI();
+        }
+    } catch (error) {
+        console.error('Error checking fasting status:', error);
     }
 }
 
-function startFasting() {
-    const settings = Storage.getSettings();
-    const now = Date.now();
-    const goalMs = settings.goalHours * 60 * 60 * 1000;
+async function startFasting() {
+    if (!currentUser) return;
 
-    const session = {
-        startTime: now,
-        goalHours: settings.goalHours,
-        endTime: now + goalMs
-    };
+    try {
+        const settings = await fastDB.getSettings(currentUser.id);
+        const now = Date.now();
+        const goalMs = settings.goalHours * 60 * 60 * 1000;
 
-    Storage.saveCurrentSession(session);
-    startTimerUI(session);
-    showToast('بدأ الصيام! بالتوفيق 💪');
+        const session = {
+            startTime: now,
+            goalHours: settings.goalHours,
+            endTime: now + goalMs
+        };
+
+        await fastDB.saveCurrentSession(currentUser.id, session);
+        startTimerUI(session);
+        showToast('بدأ الصيام! بالتوفيق 💪');
+    } catch (error) {
+        console.error('Error starting fasting:', error);
+        showToast('حدث خطأ أثناء بدء الصيام');
+    }
 }
 
-function endFasting() {
-    const session = Storage.getCurrentSession();
-    if (!session) return;
+async function endFasting() {
+    if (!currentUser) return;
 
-    const now = Date.now();
-    const durationMs = now - session.startTime;
-    const durationHours = durationMs / (1000 * 60 * 60);
+    try {
+        const session = await fastDB.getCurrentSession(currentUser.id);
+        if (!session) return;
 
-    // Save to history
-    const historyItem = {
-        startTime: session.startTime,
-        endTime: now,
-        duration: durationHours,
-        goal: session.goalHours,
-        completed: durationHours >= session.goalHours
-    };
+        const now = Date.now();
+        const durationMs = now - session.startTime;
+        const durationHours = durationMs / (1000 * 60 * 60);
 
-    Storage.addHistoryItem(historyItem);
-    Storage.clearCurrentSession();
+        // Save to history
+        const historyItem = {
+            startTime: session.startTime,
+            endTime: now,
+            duration: durationHours,
+            goal: session.goalHours,
+            completed: durationHours >= session.goalHours
+        };
 
-    resetTimerUI();
-    loadDashboard(); // Refresh stats
-    showToast('تم إنهاء الصيام. وجبة هنيئة! 😋');
+        await fastDB.addSession(currentUser.id, historyItem);
+        await fastDB.clearCurrentSession(currentUser.id);
+
+        resetTimerUI();
+        await loadDashboard(); // Refresh stats
+        showToast('تم إنهاء الصيام. وجبة هنيئة! 😋');
+    } catch (error) {
+        console.error('Error ending fasting:', error);
+        showToast('حدث خطأ أثناء إنهاء الصيام');
+    }
 }
 
 function startTimerUI(session) {
@@ -213,7 +246,10 @@ function updateTimer(session) {
         if (!session.notificationSent && Math.abs(remaining) < 1000) {
             sendFastingCompleteNotification(session.goalHours);
             session.notificationSent = true;
-            Storage.saveCurrentSession(session);
+            // Update session in DB to avoid repeat notifications
+            if (currentUser) {
+                fastDB.saveCurrentSession(currentUser.id, session);
+            }
         }
     }
 
@@ -246,34 +282,40 @@ async function sendFastingCompleteNotification(hours) {
 }
 
 // --- Dashboard ---
-function loadDashboard() {
-    const history = Storage.getHistory();
+async function loadDashboard() {
+    if (!currentUser) return;
 
-    // Calculate Stats
-    let totalHours = 0;
-    history.forEach(item => totalHours += item.duration);
-    els.totalHours.textContent = Math.floor(totalHours);
+    try {
+        const history = await fastDB.getSessionHistory(currentUser.id);
 
-    // Streak (Simplified: consecutive sessions < 48h apart)
-    let streak = 0;
-    if (history.length > 0) {
-        streak = 1;
-        for (let i = 0; i < history.length - 1; i++) {
-            const diff = history[i].startTime - history[i + 1].endTime;
-            if (diff < 48 * 60 * 60 * 1000) { // Less than 48h gap
-                streak++;
-            } else {
-                break;
+        // Calculate Stats
+        let totalHours = 0;
+        history.forEach(item => totalHours += item.duration);
+        els.totalHours.textContent = Math.floor(totalHours);
+
+        // Streak (Simplified: consecutive sessions < 48h apart)
+        let streak = 0;
+        if (history.length > 0) {
+            streak = 1;
+            for (let i = 0; i < history.length - 1; i++) {
+                const diff = history[i].startTime - history[i + 1].endTime;
+                if (diff < 48 * 60 * 60 * 1000) { // Less than 48h gap
+                    streak++;
+                } else {
+                    break;
+                }
             }
         }
+        els.streakCount.textContent = streak;
+
+        // Render Chart (Last 7 days)
+        renderWeekChart(history);
+
+        // Render List
+        renderHistoryList(history.slice(0, 10)); // Last 10 items
+    } catch (error) {
+        console.error('Error loading dashboard:', error);
     }
-    els.streakCount.textContent = streak;
-
-    // Render Chart (Last 7 days)
-    renderWeekChart(history);
-
-    // Render List
-    renderHistoryList(history.slice(0, 10)); // Last 10 items
 }
 
 function renderWeekChart(history) {
@@ -387,25 +429,43 @@ async function fetchDailyNews() {
 
 // --- Settings ---
 function setupSettings() {
-    els.saveSettingsBtn.addEventListener('click', () => {
+    els.saveSettingsBtn.addEventListener('click', async () => {
+        if (!currentUser) return;
+
         const name = els.settingName.value;
         const goal = parseInt(els.settingGoal.value);
         const theme = els.settingTheme.value;
 
-        Storage.saveUserProfile({ ...Storage.getUserProfile(), name });
-        Storage.saveSettings({ ...Storage.getSettings(), goalHours: goal, theme: theme });
+        try {
+            // Update Profile
+            const profile = await fastDB.getProfile(currentUser.id);
+            profile.name = name;
+            await fastDB.saveProfile(currentUser.id, profile);
 
-        els.userName.textContent = name;
-        els.timerGoalText.textContent = `الهدف: ${goal} ساعة`;
-        applyTheme(theme);
+            // Update Settings
+            const settings = await fastDB.getSettings(currentUser.id);
+            settings.goalHours = goal;
+            settings.theme = theme;
+            await fastDB.saveSettings(currentUser.id, settings);
 
-        showToast('تم حفظ الإعدادات');
+            // Update UI
+            els.userName.textContent = name;
+            els.timerGoalText.textContent = `الهدف: ${goal} ساعة`;
+            applyTheme(theme);
+
+            showToast('تم حفظ الإعدادات');
+        } catch (error) {
+            console.error('Error saving settings:', error);
+            showToast('حدث خطأ أثناء حفظ الإعدادات');
+        }
     });
 
-    els.clearDataBtn.addEventListener('click', () => {
+    els.clearDataBtn.addEventListener('click', async () => {
         if (confirm('هل أنت متأكد من حذف جميع بياناتك؟ لا يمكن التراجع عن هذا الإجراء.')) {
-            Storage.clearAllData();
-            location.reload();
+            if (currentUser) {
+                await fastDB.clearAllUserData(currentUser.id);
+                location.reload();
+            }
         }
     });
 
