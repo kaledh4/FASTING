@@ -204,17 +204,222 @@
 
                 <div class="app-info mt-8 text-center text-gray-400 text-sm">
                     <p>نسخة 2.0.0 | PWA Ready</p>
+    <meta name="theme-color" content="#10b981">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="apple-touch-icon" href="pwa/icon.svg">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Tajawal:wght@300;400;500;700;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Navigation -->
+        <nav class="bottom-nav">
+            <button class="nav-item active" data-target="home">
+                <i class="fas fa-stopwatch"></i>
+                <span>الصيام</span>
+            </button>
+            <button class="nav-item" data-target="dashboard">
+                <i class="fas fa-chart-pie"></i>
+                <span>لوحة التحكم</span>
+            </button>
+            <button class="nav-item" data-target="health">
+                <i class="fas fa-heartbeat"></i>
+                <span>صحتي</span>
+            </button>
+            <button class="nav-item" data-target="settings">
+                <i class="fas fa-cog"></i>
+                <span>الإعدادات</span>
+            </button>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main id="main-content">
+
+            <!-- HOME SECTION -->
+            <section id="home" class="page active">
+                <header class="header">
+                    <div class="header-content">
+                        <h1>مرحباً، <span id="user-name-display">يا بطل</span> 👋</h1>
+                        <p id="current-date">السبت، 30 نوفمبر</p>
+                    </div>
+                    <div class="user-avatar" id="user-avatar">
+                        <i class="fas fa-user"></i>
+                    </div>
+                </header>
+
+                <div class="timer-card glass-panel">
+                    <div class="timer-circle-container">
+                        <svg class="progress-ring" width="260" height="260">
+                            <circle class="progress-ring__circle-bg" stroke="#e5e7eb" stroke-width="12"
+                                fill="transparent" r="110" cx="130" cy="130" />
+                            <circle class="progress-ring__circle" stroke="#10b981" stroke-width="12" fill="transparent"
+                                r="110" cx="130" cy="130" />
+                        </svg>
+                        <div class="timer-info">
+                            <span id="timer-status-text">جاهز للصيام</span>
+                            <h2 id="timer-display">00:00:00</h2>
+                            <span id="timer-goal-text">الهدف: 16 ساعة</span>
+                        </div>
+                    </div>
+
+                    <div class="timer-controls">
+                        <button id="main-action-btn" class="btn-primary pulse-animation">
+                            <i class="fas fa-play"></i> ابدأ الصيام
+                        </button>
+                        <div id="fasting-details" class="hidden">
+                            <div class="detail-row">
+                                <span><i class="fas fa-clock"></i> بدأ في:</span>
+                                <span id="start-time-display">--:--</span>
+                            </div>
+                            <div class="detail-row">
+                                <span><i class="fas fa-flag-checkered"></i> ينتهي:</span>
+                                <span id="end-time-display">--:--</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="daily-insight glass-panel mt-4">
+                    <div class="insight-header">
+                        <i class="fas fa-lightbulb text-yellow-400"></i>
+                        <h3>معلومة اليوم</h3>
+                    </div>
+                    <p id="daily-tip-text">جاري تحميل المعلومة الطبية...</p>
+                </div>
+            </section>
+
+            <!-- DASHBOARD SECTION -->
+            <section id="dashboard" class="page">
+                <header class="header">
+                    <h1>إنجازاتي</h1>
+                </header>
+
+                <div class="stats-grid">
+                    <div class="stat-card glass-panel">
+                        <i class="fas fa-fire text-orange-500"></i>
+                        <div class="stat-info">
+                            <span class="stat-value" id="streak-count">0</span>
+                            <span class="stat-label">أيام متتالية</span>
+                        </div>
+                    </div>
+                    <div class="stat-card glass-panel">
+                        <i class="fas fa-hourglass-half text-blue-500"></i>
+                        <div class="stat-info">
+                            <span class="stat-value" id="total-hours">0</span>
+                            <span class="stat-label">ساعات صيام</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chart-container glass-panel mt-4">
+                    <h3>سجل الالتزام</h3>
+                    <div class="week-chart" id="week-chart">
+                        <!-- Bars will be injected by JS -->
+                    </div>
+                </div>
+
+                <div class="history-list glass-panel mt-4">
+                    <h3>آخر الجلسات</h3>
+                    <ul id="history-list-items">
+                        <!-- History items -->
+                    </ul>
+                </div>
+            </section>
+
+            <!-- HEALTH NEWS SECTION -->
+            <section id="health" class="page">
+                <header class="header">
+                    <h1>أخبار الصحة</h1>
+                    <span class="badge">تحديث يومي</span>
+                </header>
+                <div id="news-container" class="news-feed">
+                    <!-- News items will be injected here -->
+                    <div class="loader"></div>
+                </div>
+            </section>
+
+            <!-- SETTINGS SECTION -->
+            <section id="settings" class="page">
+                <header class="header">
+                    <h1>الإعدادات</h1>
+                </header>
+
+                <div class="settings-group glass-panel">
+                    <h3>الملف الشخصي</h3>
+                    <div class="input-group">
+                        <label>الاسم</label>
+                        <input type="text" id="setting-name" placeholder="اسمك">
+                    </div>
+                    <div class="input-group">
+                        <label>الهدف اليومي (ساعات)</label>
+                        <select id="setting-goal">
+                            <option value="12">12 ساعة (مبتدئ)</option>
+                            <option value="14">14 ساعة</option>
+                            <option value="16" selected>16 ساعة (قياسي)</option>
+                            <option value="18">18 ساعة (متقدم)</option>
+                            <option value="20">20 ساعة (محارب)</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label>المظهر</label>
+                        <select id="setting-theme">
+                            <option value="light">فاتح</option>
+                            <option value="dark">داكن</option>
+                        </select>
+                    </div>
+                    <button id="save-settings-btn" class="btn-secondary mt-2">حفظ التغييرات</button>
+                </div>
+
+                <div class="settings-group glass-panel mt-4">
+                    <h3>البيانات</h3>
+                    <button id="export-data-btn" class="btn-outline"><i class="fas fa-download"></i> تصدير
+                        بياناتي</button>
+                    <button id="clear-data-btn" class="btn-outline danger"><i class="fas fa-trash"></i> حذف كل
+                        البيانات</button>
+                </div>
+
+                <div class="settings-group glass-panel mt-4">
+                    <h3>الحساب</h3>
+                    <button id="logout-btn" class="btn-outline"><i class="fas fa-sign-out-alt"></i> تسجيل
+                        الخروج</button>
+                </div>
+
+                <div class="app-info mt-8 text-center text-gray-400 text-sm">
+                    <p>نسخة 2.0.0 | PWA Ready</p>
                     <p>تم التطوير بواسطة MAMDOUH</p>
                 </div>
             </section>
 
         </main>
     </div>
+    <!-- Toast Notification -->
+    <div id="toast" class="toast hidden">تم الحفظ بنجاح</div>
 
-    .then(registration => console.log('SW registered'))
-    .catch(err => console.log('SW registration failed', err));
-    });
-    }
+    <!-- Scripts -->
+    <script src="js/db.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        // Register Service Worker
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(registration => console.log('SW registered'))
+                    .catch(err => console.log('SW registration failed', err));
+            });
+        }
     </script>
 </body>
 
