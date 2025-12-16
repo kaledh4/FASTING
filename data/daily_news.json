@@ -1,7 +1,46 @@
 {
-  "updated_at": "2025-12-15T06:34:23.021212",
+  "updated_at": "2025-12-16T06:32:33.057875",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "هل حُرم ريال مدريد من ركلة جزاء في مواجهة ألافيس؟",
+      "description": "في الدقيقة الـ86 وبينما كانت النتيجة تشير لتقدم ريال مدريد 2-1 على ألافيس، طالب لاعبو \"الملكي\" بركلة جزاء بعد خطأ ارتكب على فينيسيوس، فما صحة هذا الطلب؟",
+      "url": "https://www.aljazeera.net/sport/2025/12/15/%d9%87%d9%84-%d8%ad%d9%8f%d8%b1%d9%85-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%85%d9%86-%d8%b1%d9%83%d9%84%d8%a9-%d8%ac%d8%b2%d8%a7%d8%a1-%d9%81%d9%8a",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/9%D8%B3-1765785836.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2025-12-15T06:00:25Z",
+      "content": "2-1 . 39 4 . . \" ()\". \" \". \" \". \" \" \"\" \"\". .   \" .. \". \"\" / . \" \" . \"\". \" \" . . ¿Da para roja directa la acción entre Asencio y Lucas Boyé?\r\n .\r\n Asencio intenta puntear el balón entre las piernas de… [+181 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "\"غرق وانهيار المتحف المصري الكبير\".. ما صحة الفيديو المتداول؟",
+      "description": "روّجت حسابات مقطع فيديو بزعم أنه يُظهر لحظة غرق وانهيار المتحف المصري الكبير، مثيرًا موجة من التفاعلات عبر وسائل التواصل الاجتماعي.",
+      "url": "https://arabic.cnn.com/middle-east/article/2025/12/14/ai-video-circulating-the-sinking-and-collapse-of-the-grand-egyptian-museum",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/14/images/317702.jpg",
+      "publishedAt": "2025-12-14T18:17:19Z",
+      "content": "(CNN)--   .  \r\n 5 : \" \".\r\n(q3uk@).\r\n 07:16 13 / 2025 4 . : \"#__ #_\".   \r\n307 \" \". (Sloppy AI) .\r\n CNN \"\" .\r\n . .  \r\n Hive Moderation 99.9%. \r\nHive Moderation \r\n.  \r\n \" . \".\r\n CNN 2023 ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "مفاجأة طبية.. فصيلة دم قد تزيد خطر السكتة الدماغية قبل الستين",
+      "description": "كشفت دراسة حديثة وجود ارتباط لافت بين فصيلة دم محددة وارتفاع خطر الإصابة بالسكتة الدماغية في سن مبكرة، ما يسلّط الضوء على الدور المحتمل للعوامل الوراثية في صحة القلب والأوعية الدموية، دون أن يعني ذلك سببًا للقلق المفرط.",
+      "url": "https://sarabic.ae/20251214/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A9-%D9%81%D8%B5%D9%8A%D9%84%D8%A9-%D8%AF%D9%85-%D9%82%D8%AF-%D8%AA%D8%B2%D9%8A%D8%AF-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D8%B3%D9%83%D8%AA%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%86-1108149186.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/06/14/1090007253_0:1407:2047:2558_2072x0_60_0_0_30fdbaca4bff169f3dc8bd3eb0cf7457.jpg.webp",
+      "publishedAt": "2025-12-14T12:28:13Z",
+      "content": "https://sarabic.ae/20251214/-----------1108149186.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/06/14/1090007253_0:1407:2047:2558_1920x0_80_0_0_8a1dbe9d51b822536edacb738474fb70.jpg.webp\r\n \"Neurology\" 620… [+411 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -92,45 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/05/images/316827.jpg",
       "publishedAt": "2025-12-05T02:29:51Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "في العطل.. عزّز جهازك المناعي من خلال 3 عادات يومية",
-      "description": "من المهم الالتفات إلى أهمية الحفاظ على صحة جهازنا المناعي خلال موسم العطل الذي بات على الأبواب. ما النصائح التي تقدمها خبيرة الصحة لدى CNN في هذا الخصوص؟",
-      "url": "https://arabic.cnn.com/science-and-health/article/2025/12/04/holiday-health-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_104,w_1997,h_1123,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/11/25/images/316039.jpg",
-      "publishedAt": "2025-12-04T13:33:42Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "حتى في منتصف العمر النشاط البدني يُعزّز صحة الدماغ ويحمي من الخرف",
-      "description": "يثني العلماء على فوائد ممارسة الرياضة في سن مبكرة لأنها تساعد على خفض خطر تدهور الدماغ لاحقًا، إلا أنّ بحثًا جديدًا يُشير إلى أنّ الإقدام على ذلك بعد بلوغ الخامسة والأربعين من العمر ليس متأخرًا.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2025/12/04/exercise-midlife-dementia-risk-wellness",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/02/images/316546.jpg",
-      "publishedAt": "2025-12-04T10:44:05Z",
-      "content": "(CNN) -- .\r\n   JAMA Network Open 19 / 41% 45%. 45 64 65 88 .\r\n : \" \". \r\n 57 2050 CNN \" \".\r\n \" \".\r\n : \" \".\r\n . 2022 3800 25% . 19% 22%.\r\n CNN \" \".\r\n 150 300 75 150 .\r\n 150 75 . \" \" 21 .\r\n Baptist Heal… [+114 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "مصر تنفي التنسيق مع إسرائيل لفتح معبر رفح خلال الأيام المقبلة للخروج من غزة",
-      "description": "أعلنت الهيئة العامة للاستعلامات، اليوم الأربعاء، أن مصدرا مصريا مسؤولا نفى صحة ما نشرته بعض وسائل الإعلام الإسرائيلية بشأن وجود تنسيق لفتح معبر رفح خلال الأيام المقبلة لخروج الفلسطينيين من قطاع غزة فقط.",
-      "url": "https://sarabic.ae/20251203/%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82-%D9%85%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D9%81%D8%AA%D8%AD-%D9%85%D8%B9%D8%A8%D8%B1-%D8%B1%D9%81%D8%AD-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A3%D9%8A%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-%D9%84%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-1107771782.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/05/07/1088622631_0:0:3072:1728_2072x0_60_0_0_dcc69eda731dc97514018b4e028e2c70.jpg.webp",
-      "publishedAt": "2025-12-03T11:32:43Z",
-      "content": "https://sarabic.ae/20251203/--------------1107771782.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/05/07/1088622631_0:0:3072:1728_1920x0_80_0_0_2cf162f5cfcf0ff44e69574024c5a8b7.jpg.webp\r\n \" \". \" \". \" / 2… [+423 chars]"
     }
   ]
 }
