@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-20T06:29:40.554186",
+  "updated_at": "2025-12-21T06:29:20.327743",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "الشتاء خطر صامت.. نصائح أساسية لحماية قدم مرضى السكري",
+      "description": "يمثل فصل الشتاء تحديا إضافيا للأشخاص المصابين بمرض السكري، خاصة عندما يتعلق الأمر بالحفاظ على صحة القدمين. درجات الحرارة المنخفضة والرطوبة يمكن أن تزيد من مخاطر تقرحات القدم، العدوى وضعف التروية.",
+      "url": "https://www.aljazeera.net/health/2025/12/19/%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1-%d8%ae%d8%b7%d8%b1-%d8%b5%d8%a7%d9%85%d8%aa-%d9%86%d8%b5%d8%a7%d8%a6%d8%ad-%d8%a3%d8%b3%d8%a7%d8%b3%d9%8a%d8%a9-%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/67177-1766163407.jpg?resize=1200%2C630",
+      "publishedAt": "2025-12-19T14:25:04Z",
+      "content": "()\r\n. . .\r\n . .\r\n ( ) . .\r\n \"\" . .\r\n \"\" ()\r\n(ACFAS) .\r\n . .\r\n .\r\n ( ) .\r\n . ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/101362/46/1013624660_0:0:3000:1688_2072x0_60_0_0_1be1eaddf0b1239db3746c1967a16afe.jpg.webp",
       "publishedAt": "2025-12-08T18:16:44Z",
       "content": "https://sarabic.ae/20251208/---------1107950886.html\r\nhttps://cdn.img.sarabic.ae/img/101362/46/1013624660_0:0:3000:1688_1920x0_80_0_0_c2433acb3f0c4c3ff886752298043e18.jpg.webp\r\nhttps://sarabic.ae/202… [+287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GlobeNewswire"
-      },
-      "author": "Earth Rover Program",
-      "title": "Earth Rover Program تنطلق عالمياً بالتزامن مع فعاليات اليوم العالمي للتربة، وتكشف النقاب عن تطبيق Soilsmology العلمي الجديد",
-      "description": "لندن, Dec. 08, 2025 (GLOBE NEWSWIRE) --  تنطلق Earth Rover Program اليوم حول العالم وتكشف عن مفهوم \"soilsmology \" الثوري - وهو تطبيق مبتكر في مجال علم الزلازل يقدّم رؤية غير مسبوقة حول صحة وبنية التربة، التي تعدّ من النظم البيئية الحيوية الأهم والأضعف على وجه…",
-      "url": "https://www.globenewswire.com/news-release/2025/12/08/3201289/0/ar/Earth-Rover-Program-%D8%AA%D9%86%D8%B7%D9%84%D9%82-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B-%D8%A8%D8%A7%D9%84%D8%AA%D8%B2%D8%A7%D9%85%D9%86-%D9%85%D8%B9-%D9%81%D8%B9%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A-%D9%84%D9%84%D8%AA%D8%B1%D8%A8%D8%A9-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8-%D8%B9%D9%86-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-Soilsmology-%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF.html",
-      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/2aff8c36-f55b-4b4b-9be4-29edc77d9bc2",
-      "publishedAt": "2025-12-08T09:10:00Z",
-      "content": ", Dec. 08, 2025 (GLOBE NEWSWIRE) --   Earth Rover Program\"soilsmology \" - . Bezos Earth Fund . .\r\n 99 . 75 . . Earth Rover Program \"\" . - .\r\n . 10 . .\r\n. ( MEMS) 1,000 2023 10 . . - - .\" \r\nEarth Rove… [+612 chars]"
     }
   ]
 }
