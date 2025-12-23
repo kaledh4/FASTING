@@ -1,7 +1,46 @@
 {
-  "updated_at": "2025-12-22T06:34:00.093670",
+  "updated_at": "2025-12-23T06:33:08.444197",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "بيان من الجيش المصري بشأن ما أثارته وثائق منسوبة له حول منح ضباط امتيازات",
+      "description": "أصدر الجيش المصري بيانًا بشأن ما أثير عن منح امتيازات لضباط القوات المسلجة امتيازات، نافيًا صحة وثائق متداولة، قال إنها \"ادعاءات زائفة\".",
+      "url": "https://arabic.cnn.com/middle-east/article/2025/12/22/egypt-army-statement-documents-attributed-privileges",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_121,w_5992,h_3370,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/22/images/318427.jpg",
+      "publishedAt": "2025-12-21T20:27:44Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "خبراء يشاركون 3 عادات بسيطة للحفاظ على الصحة خلال عطلة نهاية العام",
+      "description": "أوضح اختصاصيو تغذية معتمدون وباحثون في مجال صحة الأسرة، أن دمج عادات منزلية صحية وبسيطة، يمكن أن يساعد العائلة على الحفاظ على عادات غذائية ونوم ونشاط بدني صحية، ليشعروا بأفضل حال خلال موسم الأعطال المزدحم.",
+      "url": "https://sarabic.ae/20251221/%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D9%8A%D8%B4%D8%A7%D8%B1%D9%83%D9%88%D9%86-3-%D8%B9%D8%A7%D8%AF%D8%A7%D8%AA-%D8%A8%D8%B3%D9%8A%D8%B7%D8%A9-%D9%84%D9%84%D8%AD%D9%81%D8%A7%D8%B8-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B9%D8%B7%D8%A7%D9%84-%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-1108441117.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/0c/15/1108441471_0:163:2120:1356_2072x0_60_0_0_a36e7197990a1b08558c780e6d832f46.jpg.webp",
+      "publishedAt": "2025-12-21T20:20:08Z",
+      "content": "https://sarabic.ae/20251221/--3----------1108441117.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/0c/15/1108441471_0:163:2120:1356_1920x0_80_0_0_0f008dba11a4300a7444a23d17a79d73.jpg.webp\r\n \" \" :1. . . . … [+449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "د. أسامة أبو الرُّب",
+      "title": "كيف تؤثر الجسيمات البلاستيكية النانوية على صحة الجهاز الهضمي؟",
+      "description": "في دراسة نشرت في مجلة \"العلوم البيئية: النانو\"، فحص باحثون من المعهد الوطني للبحوث الزراعية والغذائية والبيئية في فرنسا تأثير جزيئات البوليسترين النانوية البلاستيكية على أمعاء وكبد الفئران.",
+      "url": "https://www.aljazeera.net/health/2025/12/21/%d9%83%d9%8a%d9%81-%d8%aa%d8%a4%d8%ab%d8%b1-%d8%a7%d9%84%d8%ac%d8%b3%d9%8a%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83%d9%8a%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2024/04/%D8%B5%D9%8A-1714047127.jpg?resize=1200%2C630",
+      "publishedAt": "2025-12-21T14:09:00Z",
+      "content": "()\r\n\" : \" INRAE .\r\n ( 1 ).\r\n . .\r\n . .\r\n 100%. .\r\n . 3 -0.1 1 10 - 90 .\r\n : \" \" ( ) .\r\n 90 .\r\n . .\r\n . . .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -92,45 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/9%D8%B3-1765785836.jpg?resize=1920%2C1280&quality=80",
       "publishedAt": "2025-12-15T06:00:25Z",
       "content": "2-1 . 39 4 . . \" ()\". \" \". \" \". \" \" \"\" \"\". .   \" .. \". \"\" / . \" \" . \"\". \" \" . . ¿Da para roja directa la acción entre Asencio y Lucas Boyé?\r\n .\r\n Asencio intenta puntear el balón entre las piernas de… [+181 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"غرق وانهيار المتحف المصري الكبير\".. ما صحة الفيديو المتداول؟",
-      "description": "روّجت حسابات مقطع فيديو بزعم أنه يُظهر لحظة غرق وانهيار المتحف المصري الكبير، مثيرًا موجة من التفاعلات عبر وسائل التواصل الاجتماعي.",
-      "url": "https://arabic.cnn.com/middle-east/article/2025/12/14/ai-video-circulating-the-sinking-and-collapse-of-the-grand-egyptian-museum",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/14/images/317702.jpg",
-      "publishedAt": "2025-12-14T18:17:19Z",
-      "content": "(CNN)--   .  \r\n 5 : \" \".\r\n(q3uk@).\r\n 07:16 13 / 2025 4 . : \"#__ #_\".   \r\n307 \" \". (Sloppy AI) .\r\n CNN \"\" .\r\n . .  \r\n Hive Moderation 99.9%. \r\nHive Moderation \r\n.  \r\n \" . \".\r\n CNN 2023 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "مفاجأة طبية.. فصيلة دم قد تزيد خطر السكتة الدماغية قبل الستين",
-      "description": "كشفت دراسة حديثة وجود ارتباط لافت بين فصيلة دم محددة وارتفاع خطر الإصابة بالسكتة الدماغية في سن مبكرة، ما يسلّط الضوء على الدور المحتمل للعوامل الوراثية في صحة القلب والأوعية الدموية، دون أن يعني ذلك سببًا للقلق المفرط.",
-      "url": "https://sarabic.ae/20251214/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A9-%D9%81%D8%B5%D9%8A%D9%84%D8%A9-%D8%AF%D9%85-%D9%82%D8%AF-%D8%AA%D8%B2%D9%8A%D8%AF-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D8%B3%D9%83%D8%AA%D8%A9-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D9%8A%D8%A9-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D8%B3%D8%AA%D9%8A%D9%86-1108149186.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/06/14/1090007253_0:1407:2047:2558_2072x0_60_0_0_30fdbaca4bff169f3dc8bd3eb0cf7457.jpg.webp",
-      "publishedAt": "2025-12-14T12:28:13Z",
-      "content": "https://sarabic.ae/20251214/-----------1108149186.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/06/14/1090007253_0:1407:2047:2558_1920x0_80_0_0_8a1dbe9d51b822536edacb738474fb70.jpg.webp\r\n \"Neurology\" 620… [+411 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "سوريا وما يثار حول إطلاق عملة رقمية جديدة.. البنك المركزي يرد",
-      "description": "عقّب المصرف السوري المركزي على ما يثار من إصداره عملة رقمية جديدة، مؤكدا على أن ذلك شائعات لا صحة لها.",
-      "url": "https://arabic.cnn.com/middle-east/article/2025/12/13/syria-new-digital-currency-central-bank-response-statement",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1280,h_672,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/13/images/317541.jpg",
-      "publishedAt": "2025-12-13T06:24:01Z",
-      "content": ""
     }
   ]
 }
