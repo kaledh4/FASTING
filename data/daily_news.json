@@ -1,7 +1,20 @@
 {
-  "updated_at": "2025-12-24T06:32:57.045967",
+  "updated_at": "2025-12-25T06:32:13.266134",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "مدير صحة غزة: نواجه واقعا طبيا مرعبا لم تشهده الأراضي الفلسطينية سابقا",
+      "description": "يرسم الواقع الصحي في غزة صورة غير مسبوقة من الانهيار، وسط أرقام صادمة عن آلاف المرضى المهددين بالموت أو الإعاقة، في ظل حصار مشدد وشلل للمنظومة الطبية، بحسب ما يؤكده المدير العام لوزارة الصحة بالقطاع.",
+      "url": "https://www.aljazeera.net/news/2025/12/23/%d9%85%d8%af%d9%8a%d8%b1-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d9%86%d9%88%d8%a7%d8%ac%d9%87-%d9%88%d8%a7%d9%82%d8%b9%d8%a7-%d8%b7%d8%a8%d9%8a%d8%a7-%d9%85%d8%b1%d8%b9%d8%a8%d8%a7-%d9%84%d9%85",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/image-1766488122.jpg?resize=1920%2C1080&quality=80",
+      "publishedAt": "2025-12-23T08:34:14Z",
+      "content": ".\r\n \" \" .\r\n .\r\n 72% .\r\n 4 40 .\r\n 320 .\r\n 19 989 18 500 3700 .\r\n 4300 / 2024 .\r\n 1156 \" \" .\r\n \" \" 3788 ."
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/4d43/live/4c20af70-d763-11f0-b252-db9838d38426.jpg",
       "publishedAt": "2025-12-15T11:08:44Z",
       "content": "Getty Images\r\n15 / 1256 \"\" .\r\n .\r\n 1167 13 \" \".\r\n .\r\n .\r\n\"\" assassin .\r\n \"\" .\r\nGetty Images\r\n.\r\n1090 .\r\n .\r\n .\r\n .\r\n .\r\n \" \" .\r\n \" \" 30 .\r\n \" \" \"\" .\r\n .\r\nGetty Images\r\n.\r\n .\r\n \"\" 1092 .\r\n 1192.\r\n \"\" … [+244 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "هل حُرم ريال مدريد من ركلة جزاء في مواجهة ألافيس؟",
-      "description": "في الدقيقة الـ86 وبينما كانت النتيجة تشير لتقدم ريال مدريد 2-1 على ألافيس، طالب لاعبو \"الملكي\" بركلة جزاء بعد خطأ ارتكب على فينيسيوس، فما صحة هذا الطلب؟",
-      "url": "https://www.aljazeera.net/sport/2025/12/15/%d9%87%d9%84-%d8%ad%d9%8f%d8%b1%d9%85-%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d9%85%d9%86-%d8%b1%d9%83%d9%84%d8%a9-%d8%ac%d8%b2%d8%a7%d8%a1-%d9%81%d9%8a",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/9%D8%B3-1765785836.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2025-12-15T06:00:25Z",
-      "content": "2-1 . 39 4 . . \" ()\". \" \". \" \". \" \" \"\" \"\". .   \" .. \". \"\" / . \" \" . \"\". \" \" . . ¿Da para roja directa la acción entre Asencio y Lucas Boyé?\r\n .\r\n Asencio intenta puntear el balón entre las piernas de… [+181 chars]"
     }
   ]
 }
