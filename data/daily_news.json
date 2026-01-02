@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-01-01T06:32:22.203033",
+  "updated_at": "2026-01-02T06:32:42.664456",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "صحة ترامب.. لماذا تثير كدمات يد الرئيس الأمريكي الأكبر سناً التساؤلات؟",
+      "description": "أعادت الكدمات الجديدة على يد الرئيس الأمريكي دونالد ترامب اليسرى إحياء التساؤلات حول صحته بعد مرور عام تقريبًا على توليه منصب الرئاسة لولاية ثانية كأكبر رئيس سنًا.",
+      "url": "https://arabic.cnn.com/world/article/2026/01/01/bruising-on-trumps-left-hand-sparks-renewed-questions-about-his-health",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_283,w_3602,h_2026,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319283.jpg",
+      "publishedAt": "2026-01-01T02:48:51Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "مصادر تكشف لـCNN ماذا قال مدير CIA لترامب بشأن \"صحة\" اتهام روسيا لأوكرانيا بـ\"مهاجمة مقر إقامة بوتين\"",
+      "description": "قيّمت وكالة الاستخبارات المركزية الأمريكية (CIA) أن أوكرانيا لم تكن تستهدف مقر إقامة يستخدمه الرئيس الروسي فلاديمير بوتين في هجوم بطائرات مسيرة وقع مؤخرًا شمالي البلاد",
+      "url": "https://arabic.cnn.com/world/article/2026/01/01/cia-assesses-ukraine-was-not-targeting-a-putin-residence-in-drone-attack-contrary-to-kremlin-claim",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319282.jpg",
+      "publishedAt": "2026-01-01T02:21:47Z",
+      "content": "(CNN) --   (CIA)  .\r\n  CNN  . .\r\n \" \" . \r\n : \" . \" \" \" \" \" : \" \".\r\n  . \" \" : \" \"\" \". \r\n \" \" \" \".  \r\n : \" : . ( ) . ( ) \" \". \".\r\n CNN .\r\n - - . \r\n .\r\n .\r\n \" \".\r\n 91 .\r\n .\r\n .\r\n ."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "د. أسامة أبو الرُّب",
+      "title": "4 أمور انتبه لها للحفاظ على صحة المسالك البولية",
+      "description": "قد يكون فهم آلية عمل المسالك البولية والأعضاء التناسلية أمرا غامضا بعض الشيء. لكن هناك أمر واحد مؤكد، عندما لا تعمل هذه الأعضاء كما ينبغي، فقد يكون الأمر مؤلما وغير مريح، بل ومزعجا للغاية.",
+      "url": "https://www.aljazeera.net/health/2025/12/31/4-%d8%a3%d9%85%d9%88%d8%b1-%d8%a7%d9%86%d8%aa%d8%a8%d9%87-%d9%84%d9%87%d8%a7-%d9%84%d9%84%d8%ad%d9%81%d8%a7%d8%b8-%d8%b9%d9%84%d9%89-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84%d9%83",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/12/GettyImages-1218531906-1701841784.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-12-31T14:38:10Z",
+      "content": ". .\r\n . 4 :\r\n . .\r\n ( ) .\r\n 12 ( 3 ) ( ) .\r\n( )\r\n. . .\r\n :\r\n .\r\n .\r\n( ) . .\r\n .\r\n :"
+    },
     {
       "source": {
         "id": null,
@@ -92,45 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/2149186529-1-1766760435.jpg?resize=1200%2C630",
       "publishedAt": "2025-12-26T12:34:21Z",
       "content": "( )\r\n. . .\r\n .\r\nlist of 2 items<ul><li>list 1 of 2 .. </li><li>list 2 of 2 .. </li></ul>end of list\r\n . .\r\n . .\r\n ( )\r\n. .\r\n . .\r\n . .\r\n . .\r\n . .\r\n ( )\r\n. .\r\n \" \" 3 4 . .\r\n .\r\n :\r\n ( )\r\n. .\r\n .\r\n .\r… [+26 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مصر ترد على ما أثير حول رسو سفينة أسلحة ومعدات عسكرية في ميناء بورسعيد",
-      "description": "نفت الهيئة العامة للمنطقة الاقتصادية لقناة السويس، في بيان لها الخميس، صحة ما جرى تداوله عبر وسائل التواصل الاجتماعي حول رسو سفينة تحمل على متنها معدات عسكرية وأسلحة في ميناء بورسعيد.",
-      "url": "https://arabic.cnn.com/middle-east/article/2025/12/25/egypt-military-equipment-ship-port-said",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1200,h_630,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2025/12/25/images/318792.jpg",
-      "publishedAt": "2025-12-25T15:59:19Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "كنوز الأطعمة الداكنة.. لماذا ينصح بها خبراء التغذية؟",
-      "description": "تظهر الأبحاث أن الأطعمة الغنية بالبوليفينولات مثل القهوة، الشوكولاتة الداكنة، التوت وزيت الزيتون تسهم في دعم صحة القلب عبر تحسين مرونة الأوعية الدموية، تقليل الالتهاب، وتنظيم الكوليسترول.",
-      "url": "https://www.aljazeera.net/lifestyle/2025/12/25/%d9%83%d9%86%d9%88%d8%b2-%d8%a7%d9%84%d8%a3%d8%b7%d8%b9%d9%85%d8%a9-%d8%a7%d9%84%d8%af%d8%a7%d9%83%d9%86%d8%a9-%d9%84%d9%85%d8%a7%d8%b0%d8%a7-%d9%8a%d9%86%d8%b5%d8%ad-%d8%a8%d9%87%d8%a7",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/3co-berry-1766494314.jpg?resize=1920%2C1440",
-      "publishedAt": "2025-12-25T13:23:13Z",
-      "content": "()\r\n. .\r\n . . .\r\n .\r\n \" \" 3100 10 . .\r\n (HDL) .\r\n - .\r\n .\r\n .\r\n ()\r\n:\r\n : .\r\n : . C .\r\n : LDL ( ) HDL ( ) .\r\n : . .\r\n :\r\n ()\r\n:\r\n .\r\n . .\r\n .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "مدير صحة غزة: نواجه واقعا طبيا مرعبا لم تشهده الأراضي الفلسطينية سابقا",
-      "description": "يرسم الواقع الصحي في غزة صورة غير مسبوقة من الانهيار، وسط أرقام صادمة عن آلاف المرضى المهددين بالموت أو الإعاقة، في ظل حصار مشدد وشلل للمنظومة الطبية، بحسب ما يؤكده المدير العام لوزارة الصحة بالقطاع.",
-      "url": "https://www.aljazeera.net/news/2025/12/23/%d9%85%d8%af%d9%8a%d8%b1-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d9%86%d9%88%d8%a7%d8%ac%d9%87-%d9%88%d8%a7%d9%82%d8%b9%d8%a7-%d8%b7%d8%a8%d9%8a%d8%a7-%d9%85%d8%b1%d8%b9%d8%a8%d8%a7-%d9%84%d9%85",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/image-1766488122.jpg?resize=1920%2C1080&quality=80",
-      "publishedAt": "2025-12-23T08:34:14Z",
-      "content": ".\r\n \" \" .\r\n .\r\n 72% .\r\n 4 40 .\r\n 320 .\r\n 19 989 18 500 3700 .\r\n 4300 / 2024 .\r\n 1156 \" \" .\r\n \" \" 3788 ."
     }
   ]
 }
