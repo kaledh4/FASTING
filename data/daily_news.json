@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-07T06:32:58.178479",
+  "updated_at": "2026-01-08T06:33:35.014487",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "\"فنزويلا تلعب دوراً أساسياً في تهريب المخدرات\"، ما صحة اتهام ترامب هذا؟",
+      "description": "حذر الرئيس الأمريكي دونالد ترامب من أن المكسيك وكولومبيا قد تكونان الهدفين التاليين في حملته لمكافحة المخدرات، ولكن لماذا البدء بفنزويلا؟",
+      "url": "https://www.bbc.com/arabic/articles/c62nqzgj7weo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/b12f/live/4e7dd660-ea48-11f0-a4c4-1d0f54763880.jpg",
+      "publishedAt": "2026-01-07T04:37:26Z",
+      "content": "Esteban Vanegas/Bloomberg via Getty Images"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/12/GettyImages-1218531906-1701841784.jpg?resize=1920%2C1440",
       "publishedAt": "2025-12-31T14:38:10Z",
       "content": ". .\r\n . 4 :\r\n . .\r\n ( ) .\r\n 12 ( 3 ) ( ) .\r\n( )\r\n. . .\r\n :\r\n .\r\n .\r\n( ) . .\r\n .\r\n :"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tech-wd.com"
-      },
-      "author": "فريق التحرير",
-      "title": "سامسونج تكشف عن ميزة “صحة الدماغ” لاكتشاف علامات الخرف المبكر عبر أجهزتها الذكية",
-      "description": "تستعد سامسونج لاستعراض ميزة صحية مبتكرة تُدعى Brain Health خلال معرض الإلكترونيات الاستهلاكية CES 2026 في لاس فيغاس الشهر المقبل. وتهدف الميزة الجديدة إلى رصد العلامات المبكرة لتدهور القدرات الإدراكية والخرف بالاعتماد على تحليل بيانات المستخدمين التي تجمعها ه…",
-      "url": "https://www.tech-wd.com/wd/2025/12/30/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b5%d8%ad%d8%a9-%d8%a7%d9%84%d8%af%d9%85%d8%a7%d8%ba-%d9%84%d8%a7%d9%83%d8%aa%d8%b4/",
-      "urlToImage": "https://www.tech-wd.com/wd/wp-content/uploads/2025/12/samsung-smartwatch-health.jpg",
-      "publishedAt": "2025-12-30T10:03:23Z",
-      "content": "Brain Health CES 2026 .\r\n .\r\n Brain Health\r\n :\r\n .\r\n .\r\n &gt; \r\n“ ” Samsung Health ECG .\r\n .\r\n CES 2026 “The First Look” .\r\n ."
     }
   ]
 }
