@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-01-11T06:31:21.222991",
+  "updated_at": "2026-01-12T06:35:50.217630",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "أمريكية تنتقل للعيش في بلدة إيطالية.. كيف أثر ذلك على صحة ابنها المريض؟",
+      "description": "استبدلت الأم الأمريكية  لينيت إلزر حياتها في ولاية تينيسي ببلدة إيطالية نائية تقع على تلال، حيث تقول إن تنّفس ابنها المصاب بالتوحّد تحسّن بين عشية وضحاها، وأنّ نوعية الحياة أصبحت أفضل بكثير.",
+      "url": "https://arabic.cnn.com/travel/article/2026/01/10/italy-latronico-cheap-home-health",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_104,w_1997,h_1123,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/10/images/320180.jpg",
+      "publishedAt": "2026-01-10T13:32:22Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "دراسة حديثة: المكملات النباتية مع البكتريا النافعة قد تساهم في إبطاء سرطان البروستاتا",
+      "description": "أظهرت دراسة دولية أن تناول مكملات غذائية نباتية (كالبروكلي والكركم) مع \"بروبيوتيك\" يعزز صحة الأمعاء ويبطئ بشكل ملحوظ نمو سرطان البروستاتا منخفض الخطورة، مما يساعد مرضاه على تجنب الجراحات غير الضرورية.",
+      "url": "https://www.aljazeera.net/health/2026/1/10/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ad%d8%af%d9%8a%d8%ab%d8%a9-%d8%a7%d9%84%d9%85%d9%83%d9%85%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%a8%d8%a7%d8%aa%d9%8a%d8%a9-%d9%85%d8%b9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/76ugh-1768048961.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-01-10T12:30:51Z",
+      "content": "(Probiotic) .\r\n (Phytonutrients) (Lactobacillus) .\r\n : .\r\n 212 \"\" .\r\n :\r\n .\r\n ( )\r\n\" \" (European Urology Oncology Journal) :\r\n<ul><li> ( + ): 82% 18%.</li><li> ( + ): 85.5% 6.7% () 7.8% .</li></ul> :… [+54 chars]"
+    },
     {
       "source": {
         "id": "cnn",
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1767300239.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-01T17:44:31Z",
       "content": "170 27 .\r\n 400 .\r\n \" \" .\r\n .\r\n .\r\n .\r\n 13 .\r\n - - .\r\n .\r\n .\r\n ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "صحة ترامب.. لماذا تثير كدمات يد الرئيس الأمريكي الأكبر سناً التساؤلات؟",
-      "description": "أعادت الكدمات الجديدة على يد الرئيس الأمريكي دونالد ترامب اليسرى إحياء التساؤلات حول صحته بعد مرور عام تقريبًا على توليه منصب الرئاسة لولاية ثانية كأكبر رئيس سنًا.",
-      "url": "https://arabic.cnn.com/world/article/2026/01/01/bruising-on-trumps-left-hand-sparks-renewed-questions-about-his-health",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_283,w_3602,h_2026,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319283.jpg",
-      "publishedAt": "2026-01-01T02:48:51Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مصادر تكشف لـCNN ماذا قال مدير CIA لترامب بشأن \"صحة\" اتهام روسيا لأوكرانيا بـ\"مهاجمة مقر إقامة بوتين\"",
-      "description": "قيّمت وكالة الاستخبارات المركزية الأمريكية (CIA) أن أوكرانيا لم تكن تستهدف مقر إقامة يستخدمه الرئيس الروسي فلاديمير بوتين في هجوم بطائرات مسيرة وقع مؤخرًا شمالي البلاد",
-      "url": "https://arabic.cnn.com/world/article/2026/01/01/cia-assesses-ukraine-was-not-targeting-a-putin-residence-in-drone-attack-contrary-to-kremlin-claim",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/01/images/319282.jpg",
-      "publishedAt": "2026-01-01T02:21:47Z",
-      "content": "(CNN) --   (CIA)  .\r\n  CNN  . .\r\n \" \" . \r\n : \" . \" \" \" \" \" : \" \".\r\n  . \" \" : \" \"\" \". \r\n \" \" \" \".  \r\n : \" : . ( ) . ( ) \" \". \".\r\n CNN .\r\n - - . \r\n .\r\n .\r\n \" \".\r\n 91 .\r\n .\r\n .\r\n ."
     }
   ]
 }
