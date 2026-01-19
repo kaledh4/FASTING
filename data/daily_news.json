@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-18T06:30:46.202954",
+  "updated_at": "2026-01-19T06:37:34.969680",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "سحب عاجل لعطرين شهيرين في بريطانيا بسبب مكوّن محظور يهدد الصحة الإنجابية",
+      "description": "أعلنت السلطات البريطانية سحب نوعين من العطور من الأسواق بعد ثبوت احتوائهما على مكوّن محظور يشكل \"خطرًا كيميائيًا جسيمًا\" على صحة المستهلكين، وذلك وفقًا لإشعار صادر عن مكتب سلامة ومعايير المنتجات..",
+      "url": "https://www.aljazeera.net/lifestyle/2026/1/17/%d8%b3%d8%ad%d8%a8-%d8%b9%d8%a7%d8%ac%d9%84-%d9%84%d8%b9%d8%b7%d8%b1%d9%8a%d9%86-%d8%b4%d9%87%d9%8a%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/144934-1768643980.jpg?resize=1200%2C630",
+      "publishedAt": "2026-01-17T07:02:24Z",
+      "content": "\" \" ( OPSS).\r\n (Hello) (Hot) (United Colors of Benetton) . \"\" .\r\n ( BMHCA) (Lilial) . .\r\n .\r\n . . (Savers) .\r\n \" \" .\r\n .\r\n . / 2022 ( 1 CMR 1B).\r\n .\r\n .\r\n .\r\n ."
+    },
     {
       "source": {
         "id": "cnn",
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1767536633.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-04T14:14:07Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "صحة غزة تصدر توضيحا بشأن انتشار مرض \"الليبتوسبيروزيس\"",
-      "description": "ردت وزارة الصحة في غزة، اليوم السبت، على ما تم تداوله في الآونة الأخيرة بشأن تسجيل حالات إصابة مؤكدة بمرض \"الليبتوسبيروزيس\" (داء البريميات) في القطاع.",
-      "url": "https://sarabic.ae/20260103/%D8%B5%D8%AD%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AA%D9%88%D8%B6%D9%8A%D8%AD%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%85%D8%B1%D8%B6-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D8%AA%D9%88%D8%B3%D8%A8%D9%8A%D8%B1%D9%88%D8%B2%D9%8A%D8%B3-1108876434.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07e8/0b/07/1094576179_0:0:1920:1080_2072x0_60_0_0_d9faf4e98989c7c7888fb13b340219de.jpg.webp",
-      "publishedAt": "2026-01-03T16:45:13Z",
-      "content": "https://sarabic.ae/20260103/--------1108876434.html\r\nhttps://cdn.img.sarabic.ae/img/07e8/0b/07/1094576179_0:0:1920:1080_1920x0_80_0_0_81a4c402a7e7b7c60d857c365c834521.jpg.webp\r\nhttps://sarabic.ae/202… [+291 chars]"
     }
   ]
 }
