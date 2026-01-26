@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-25T06:31:13.473298",
+  "updated_at": "2026-01-26T06:36:23.353742",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "تكلفة الفقر الباهظة.. الضغوط المالية تؤثّر على صحة قلبك وشبابه",
+      "description": "أظهرت دراسة جديدة نُشرت في مجلة \"Mayo Clinic Proceedings\" أنّ القلق بشأن المال والأمن الغذائي قد يُسرّع من شيخوخة القلب أكثر من عوامل الخطر التقليدية لأمراض القلب والأوعية الدموية.",
+      "url": "https://arabic.cnn.com/science-and-health/video/2026/01/24/v187836-money-problems-heart-cost",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/24/images/321514.jpg",
+      "publishedAt": "2026-01-24T10:19:58Z",
+      "content": "\"Mayo Clinic Proceedings\" ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/afp_696d52e0c9be-1768772320.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-18T19:18:04Z",
       "content": "()\r\n2025 15 .\r\n 1- .\r\nlist of 2 itemsend of list\r\n (VAR).\r\n 12 ( ) .\r\n .\r\n .\r\n \"\" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "سحب عاجل لعطرين شهيرين في بريطانيا بسبب مكوّن محظور يهدد الصحة الإنجابية",
-      "description": "أعلنت السلطات البريطانية سحب نوعين من العطور من الأسواق بعد ثبوت احتوائهما على مكوّن محظور يشكل \"خطرًا كيميائيًا جسيمًا\" على صحة المستهلكين، وذلك وفقًا لإشعار صادر عن مكتب سلامة ومعايير المنتجات..",
-      "url": "https://www.aljazeera.net/lifestyle/2026/1/17/%d8%b3%d8%ad%d8%a8-%d8%b9%d8%a7%d8%ac%d9%84-%d9%84%d8%b9%d8%b7%d8%b1%d9%8a%d9%86-%d8%b4%d9%87%d9%8a%d8%b1%d9%8a%d9%86-%d9%81%d9%8a-%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/144934-1768643980.jpg?resize=1200%2C630",
-      "publishedAt": "2026-01-17T07:02:24Z",
-      "content": "\" \" ( OPSS).\r\n (Hello) (Hot) (United Colors of Benetton) . \"\" .\r\n ( BMHCA) (Lilial) . .\r\n .\r\n . . (Savers) .\r\n \" \" .\r\n .\r\n . / 2022 ( 1 CMR 1B).\r\n .\r\n .\r\n .\r\n ."
     }
   ]
 }
