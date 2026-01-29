@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-01-28T06:35:37.154400",
+  "updated_at": "2026-01-29T06:45:12.709195",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "هل هناك مبالغة في تقدير فوائد فيتامين سي؟",
+      "description": "فيتامين سي عنصر مهم لصحة الإنسان، ولكن ما مدى صحة المزاعم بشأن مساعدته في الوقاية من الكثير من الأمراض؟",
+      "url": "https://www.bbc.com/arabic/articles/c70175reygqo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/a486/live/8b46ee20-f212-11f0-9b82-c3acf9ea3dee.jpg",
+      "publishedAt": "2026-01-27T15:03:19Z",
+      "content": "Getty Images\r\nArticle Information\r\n . .\r\n .\r\n .\r\n (ascorbic acid).\r\n . .\r\n\" () [ ] \".\r\n .\r\n () .\r\nGetty Images\r\n. 40 90 75 .\r\n \" [ ]. \".\r\n \" 100 \" \".\r\n \" \".\r\n .\r\n 1000 ( ) .\r\n \" (2000 ) \" .\r\n : \" 500… [+346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "تحذير علمي: البلاستيك قد يسلب ملايين البشر سنوات من حياتهم",
+      "description": "سعى باحثون من بريطانيا وفرنسا، في دراسة علمية نموذجية، إلى دمج جميع مراحل دورة حياة البلاستيك في تقييم واحد، في محاولة لرصد التأثير الكلي لهذا القطاع على صحة الإنسان.",
+      "url": "https://www.aljazeera.net/health/2026/1/27/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%b9%d9%84%d9%85%d9%8a-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83-%d9%82%d8%af-%d9%8a%d8%b3%d9%84%d8%a8-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2022/12/GettyImages-522156604.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-01-27T13:22:22Z",
+      "content": ".\r\n \" \" The Lancet Planetary Health .\r\n .\r\n .\r\n .\r\n \" \" .\r\n 2.1 2016 4.5 2040 .\r\n 90% .\r\n .\r\n 2024 2025 .\r\n \" \" ."
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07e5/02/04/1048007907_0:162:3065:1886_2072x0_60_0_0_4699dab3c52d41b6fe3a62172f87852f.jpg.webp",
       "publishedAt": "2026-01-21T15:19:27Z",
       "content": "https://sarabic.ae/20260121/---------------1109481200.html\r\nhttps://cdn.img.sarabic.ae/img/07e5/02/04/1048007907_0:162:3065:1886_1920x0_80_0_0_5465dd8c1b7440d53d635ac7465f9e42.jpg.webp\r\n \"\" : \" / \". … [+350 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "الأمن المغربي يوضح حقيقة تسجيل حالة وفاة على هامش أحداث نهائي كأس إفريقيا",
-      "description": "نفت المديرية العامة للأمن الوطني في المغرب، الثلاثاء، صحة مزاعم تسجيل حالة وفاة على هامش أحداث نهائي بطولة كأس الأمم الإفريقية 2025.",
-      "url": "https://arabic.cnn.com/sport/article/2026/01/20/moroccan-police-africa-cup-final",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_173,w_5620,h_3161,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/20/images/321170.jpg",
-      "publishedAt": "2026-01-20T13:35:49Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مصدر مقرب من ماكرون يوضح لـCNN صحة رسالة نشرها ترامب من الرئيس الفرنسي",
-      "description": "أكد مصدر مقرب من الرئيس الفرنسي إيمانويل ماكرون لشبكة CNN أن رسالة نصية نشرها الرئيس الأمريكي دونالد ترامب من الرئيس الفرنسي إيمانويل ماكرون تشكك في موقفه من غرينلاند صحيحة",
-      "url": "https://arabic.cnn.com/world/article/2026/01/20/source-close-to-macron-says-message-shared-by-trump-is-authentic",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_95,w_2927,h_1646,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/20/images/321111.jpg",
-      "publishedAt": "2026-01-20T07:40:41Z",
-      "content": ""
     }
   ]
 }
