@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-01-31T06:37:49.751325",
+  "updated_at": "2026-02-01T06:47:53.596128",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "صحة غزة تُفنّد مزاعم الاحتلال وتكشف تراجع مواليد القطاع بنسبة 11%",
+      "description": "بعد مزاعم إسرائيلية بأن نسبة المواليد في قطاع غزة بلغت 60 ألفا في عام 2025، المدير العام لوزارة الصحة الفلسطينية في القطاع يكشف بالأرقام تراجعا حادا في المواليد بسبب عدوان الاحتلال.",
+      "url": "https://www.aljazeera.net/news/2026/1/31/%d8%b1%d8%af%d8%a7-%d8%b9%d9%84%d9%89-%d8%a7%d8%af%d8%b9%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%83%d8%b4%d9%81",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/11/dd9d7d72-1700481526.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-01-31T06:41:42Z",
+      "content": "64 10 ()\r\n60 11% .\r\n .\r\n 615 2025 50 2025 11% .\r\n 322 64 10 32 .\r\n .\r\n 60% .\r\n ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/01/24/images/321514.jpg",
       "publishedAt": "2026-01-24T10:19:58Z",
       "content": "\"Mayo Clinic Proceedings\" ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "منير البرش: غزة تواجه إبادة صحية صامتة",
-      "description": "حذر مدير صحة غزة منير البرش من انهيار صحي وإنساني شامل، مؤكدا أن الحصار والحرب تسببا بانتشار الأمراض وتلوث المياه وارتفاع وفيات الأطفال، واصفا ما يجري بـ\"إبادة صحية صامتة\".",
-      "url": "https://www.aljazeera.net/politics/2026/1/23/%d9%85%d9%86%d9%8a%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d8%b4-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d8%a5%d8%a8%d8%a7%d8%af%d8%a9-%d8%b5%d8%ad%d9%8a%d8%a9-%d8%b5%d8%a7%d9%85%d8%aa%d8%a9",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1769196766.jpg?resize=1200%2C630",
-      "publishedAt": "2026-01-23T16:33:10Z",
-      "content": ".\r\n 200 \" \" .\r\n 24 9 . \" \".\r\n \" \" 2025. 48 4900 4 315 .\r\n 616 \" \" .\r\n .\r\n 18 500 \" \" 1022 .\r\n 2400 57% .\r\n .\r\n 150%.\r\n / 2025 466 1294 .\r\n 41% \"\" 56 48 ."
     }
   ]
 }
