@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-02-03T06:51:01.483716",
+  "updated_at": "2026-02-04T06:51:27.476423",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "دراسة جديدة: خطر النوبات القلبية لدى الرجال يبدأ في هذا السن",
+      "description": "كشفت دراسة طبية حديثة عن لحظة حاسمة في صحة الرجال، يتسارع بعدها خطر الإصابة بالنوبات القلبية بشكل ملحوظ، وذلك في سن أبكر مما كان يُعتقد سابقًا.",
+      "url": "https://www.aljazeera.net/health/2026/2/3/%d8%af%d8%b1%d8%a7%d8%b3%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ae%d8%b7%d8%b1-%d8%a7%d9%84%d9%86%d9%88%d8%a8%d8%a7%d8%aa-%d8%a7%d9%84%d9%82%d9%84%d8%a8%d9%8a%d8%a9-%d9%84%d8%af%d9%89",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/shutterstock_2646668769-1769182726.jpg?resize=1920%2C1280&quality=80",
+      "publishedAt": "2026-02-02T20:00:00Z",
+      "content": "()\r\n35 .\r\n 5100 30 .\r\nlist of 2 itemsend of list\r\n : \r\n .\r\n 5% ( 50.5 57.5 ).\r\n : .\r\n (40 ). .\r\n ."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "هل يرتبط السهر بتدهور صحة القلب؟ دراسة توضح",
+      "description": "كشفت دراسة جديدة أن البالغين، وخاصة النساء، الذين يسهرون لوقت متأخر يعانون من سوء في صحة القلب والأوعية الدموية، ويزيد لديهم خطر الإصابة بنوبة قلبية أو سكتة دماغية.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/02/02/heart-disease-risk-staying-up-late-wellness",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/01/images/322166.jpg",
+      "publishedAt": "2026-02-02T09:18:03Z",
+      "content": ""
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/image-1769591446.jpg?resize=1920%2C1080&quality=80",
       "publishedAt": "2026-01-28T07:41:00Z",
       "content": ".\r\n 52% 71% 72% .\r\n .\r\n . .\r\n .\r\n 2025 57% .\r\n :\r\n .\r\n (9 ) .\r\n - - .\r\n \" \".\r\n :"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "هل هناك مبالغة في تقدير فوائد فيتامين سي؟",
-      "description": "فيتامين سي عنصر مهم لصحة الإنسان، ولكن ما مدى صحة المزاعم بشأن مساعدته في الوقاية من الكثير من الأمراض؟",
-      "url": "https://www.bbc.com/arabic/articles/c70175reygqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/a486/live/8b46ee20-f212-11f0-9b82-c3acf9ea3dee.jpg",
-      "publishedAt": "2026-01-27T15:03:19Z",
-      "content": "Getty Images\r\nArticle Information\r\n . .\r\n .\r\n .\r\n (ascorbic acid).\r\n . .\r\n\" () [ ] \".\r\n .\r\n () .\r\nGetty Images\r\n. 40 90 75 .\r\n \" [ ]. \".\r\n \" 100 \" \".\r\n \" \".\r\n .\r\n 1000 ( ) .\r\n \" (2000 ) \" .\r\n : \" 500… [+346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "تحذير علمي: البلاستيك قد يسلب ملايين البشر سنوات من حياتهم",
-      "description": "سعى باحثون من بريطانيا وفرنسا، في دراسة علمية نموذجية، إلى دمج جميع مراحل دورة حياة البلاستيك في تقييم واحد، في محاولة لرصد التأثير الكلي لهذا القطاع على صحة الإنسان.",
-      "url": "https://www.aljazeera.net/health/2026/1/27/%d8%aa%d8%ad%d8%b0%d9%8a%d8%b1-%d8%b9%d9%84%d9%85%d9%8a-%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%b3%d8%aa%d9%8a%d9%83-%d9%82%d8%af-%d9%8a%d8%b3%d9%84%d8%a8-%d9%85%d9%84%d8%a7%d9%8a%d9%8a%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2022/12/GettyImages-522156604.jpg?resize=1920%2C1280&quality=80",
-      "publishedAt": "2026-01-27T13:22:22Z",
-      "content": ".\r\n \" \" The Lancet Planetary Health .\r\n .\r\n .\r\n .\r\n \" \" .\r\n 2.1 2016 4.5 2040 .\r\n 90% .\r\n .\r\n 2024 2025 .\r\n \" \" ."
     }
   ]
 }
