@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-02-05T06:58:15.914361",
+  "updated_at": "2026-02-06T06:54:04.237280",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Aljazeera.net"
+      },
+      "author": "الجزيرة نت",
+      "title": "صحة غزة: أكثر من 550 شهيدا سقطوا منذ وقف إطلاق النار",
+      "description": "حذر مسؤولون فلسطينيون في قطاع غزة من أن الأوضاع في القطاع وصلت إلى مستوى كارثي جراء الاعتداءات الإسرائيلية المتواصلة ضد الفلسطينيين العزل.",
+      "url": "https://www.aljazeera.net/news/2026/2/4/%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-550-%d8%b4%d9%87%d9%8a%d8%af%d8%a7-%d8%b3%d9%82%d8%b7%d9%88%d8%a7-%d9%85%d9%86%d8%b0-%d9%88%d9%82%d9%81",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/10/1000846281-1761154532.jpg?resize=1728%2C1080",
+      "publishedAt": "2026-02-04T09:51:47Z",
+      "content": "550 1500 .\r\n 21 12   .\r\n - - \" \".\r\n 51% 72% 11 4 .\r\n - - .\r\n 32 .\r\n .\r\n \" \".\r\n - - .\r\n 80% 100 ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/11/dd9d7d72-1700481526.jpg?resize=1920%2C1440",
       "publishedAt": "2026-01-31T06:41:42Z",
       "content": "64 10 ()\r\n60 11% .\r\n .\r\n 615 2025 50 2025 11% .\r\n 322 64 10 32 .\r\n .\r\n 60% .\r\n ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "معرض CES.. ميزان ذكي يستخدم الذكاء الاصطناعي لمتابعة صحة الجسم والقلب",
-      "description": "معرض CES.. ميزان ذكي يستخدم الذكاء الاصطناعي لمتابعة صحة الجسم والقلب",
-      "url": "https://www.bbc.com/arabic/articles/ce3kepqn65po",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/becd/live/bc6ed300-fd61-11f0-b7e1-afb6d0884c18.jpg",
-      "publishedAt": "2026-01-29T22:28:57Z",
-      "content": "CES Bodyscan 2 . \r\n . \r\n .\r\n 17.30 .\r\n : facebook.com/BBC4Tech\r\n : @BBC4Tech\r\n 4"
     }
   ]
 }
