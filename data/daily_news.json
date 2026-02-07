@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-02-06T06:54:04.237280",
+  "updated_at": "2026-02-07T06:40:47.260066",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "بريد إلكتروني يكشف ربما حقيقة صورة الأمير السابق أندرو مع ضحية إبستين فيرجينا جوفري",
+      "description": "يبدو أن رسالة بريد إلكتروني تم نشرها حديثًا تؤكد صحة صورة البريطاني أندرو ماونتباتن ويندسور (الأمير أندرو سابقًا) وهو يضع ذراعه حول خصر فيرجينيا جوفري، إحدى أبرز ضحايا شبكة الاتجار بالجنس التي كان يديرها جيفري إبستين.",
+      "url": "https://arabic.cnn.com/world/article/2026/02/05/email-appears-to-confirm-photo-of-former-prince-andrew-and-virginia-giuffre-is-real",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/05/images/322571.jpg",
+      "publishedAt": "2026-02-05T13:55:03Z",
+      "content": "(CNN) --  ( ) .\r\n .\r\n 2015 .\r\n \" \" \" \" / 2015.\r\n : \" ( ) . \".\r\n .\r\n 20 .\r\n \" \" \" \".\r\n \" \": \" . () \".\r\n  CNN - .\r\n - \" \" .\r\n  BBC \" \".\r\n : \" ... \". \r\n : \" . \".\r\n 2025 - .  - .\r\n - . 2022 . .\r\n - BBC 2… [+183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "\"صحة\" غزة: إسرائيل قتلت 574 فلسطينيا منذ دخول وقف إطلاق النار حيز التنفيذ",
+      "description": "أعلنت وزارة الصحة الفلسطينية في قطاع غزة، اليوم الخميس، ارتفاع حصيلة الضحايا الفلسطينيين جراء الهجمات الإسرائيلية إلى 574 شهيداً و1518 مصاباً منذ بدء سريان وقف إطلاق النار في 10 أكتوبر/تشرين الأول 2025.",
+      "url": "https://sarabic.ae/20260205/%D8%B5%D8%AD%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%82%D8%AA%D9%84%D8%AA-574-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7-%D9%85%D9%86%D8%B0-%D8%AF%D8%AE%D9%88%D9%84-%D9%88%D9%82%D9%81-%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D9%86%D8%A7%D8%B1-%D8%AD%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D9%86%D9%81%D9%8A%D8%B0-1110018029.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/01/1f/1109851406_0:0:1000:563_2072x0_60_0_0_9710a9a1fce4478286fbffd21453f810.jpg.webp",
+      "publishedAt": "2026-02-05T12:24:20Z",
+      "content": "https://sarabic.ae/20260205/----574---------1110018029.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/01/1f/1109851406_0:0:1000:563_1920x0_80_0_0_1b65c64b02dd30c15ce0417ef8aa61e4.jpg.webp\r\n 27 18 24 . 8 /… [+574 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/01/afp_697dd5429d04-1769854274.jpg?resize=1200%2C675",
       "publishedAt": "2026-01-31T13:50:54Z",
       "content": "()\r\n- - - 70 7 / 2023.\r\n () .\r\n \"\". \" 11\" .\r\n .\r\n .\r\n .\r\n ()\r\n:\r\n .\r\n .\r\n 100 : 70 .\r\n .\r\n .\r\n 11 .\r\n / 2024 .\r\n .\r\n .\r\n 200 71 .\r\n 2021 7 / 2023 ."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sarabic.ae"
-      },
-      "author": "سبوتنيك عربي",
-      "title": "‌‏الحرس الثوري الإيراني يصدر بيانا بشأن أنباء اغتيال قائد قوته البحرية",
-      "description": "أصدر الحرس الثوري الإيراني، اليوم السبت، بيانًا نفى فيه صحة الشائعات، التي تم تداولها اليوم بشأن اغتيال قائد القوة البحرية للحرس الثوري علي رضا تنكسيري، مؤكدًا أن \"هذه الأخبار لا أساس لها من الصحة\".",
-      "url": "https://sarabic.ae/20260131/%D8%A7%D9%84%D8%AD%D8%B1%D8%B3-%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-%D9%8A%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%82%D8%A7%D8%A6%D8%AF-%D9%82%D9%88%D8%AA%D9%87-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9---1109843539.html",
-      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/01/0f/1109285875_28:0:1880:1042_2072x0_60_0_0_a960d82fe30dba54d4156993a05ba27b.jpg.webp",
-      "publishedAt": "2026-01-31T12:48:37Z",
-      "content": "https://sarabic.ae/20260131/-------------1109843539.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/01/0f/1109285875_28:0:1880:1042_1920x0_80_0_0_d576c8a5cb9c169b90a1b4c8d4685658.jpg.webp\r\n \" \" \" \". \" \" \" … [+420 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "الجزيرة نت",
-      "title": "صحة غزة تُفنّد مزاعم الاحتلال وتكشف تراجع مواليد القطاع بنسبة 11%",
-      "description": "بعد مزاعم إسرائيلية بأن نسبة المواليد في قطاع غزة بلغت 60 ألفا في عام 2025، المدير العام لوزارة الصحة الفلسطينية في القطاع يكشف بالأرقام تراجعا حادا في المواليد بسبب عدوان الاحتلال.",
-      "url": "https://www.aljazeera.net/news/2026/1/31/%d8%b1%d8%af%d8%a7-%d8%b9%d9%84%d9%89-%d8%a7%d8%af%d8%b9%d8%a7%d8%a1%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%b5%d8%ad%d8%a9-%d8%ba%d8%b2%d8%a9-%d8%aa%d9%83%d8%b4%d9%81",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/11/dd9d7d72-1700481526.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-01-31T06:41:42Z",
-      "content": "64 10 ()\r\n60 11% .\r\n .\r\n 615 2025 50 2025 11% .\r\n 322 64 10 32 .\r\n .\r\n 60% .\r\n ."
     }
   ]
 }
