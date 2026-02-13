@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-02-12T07:00:26.184430",
+  "updated_at": "2026-02-13T06:58:40.950763",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "دراسة: أغلب أغذية الأطفال في الولايات المتحدة \"فائقة المعالجة\"",
+      "description": "كشفت دراسة حديثة أن نحو 71% من أغذية الأطفال المتوفرة في متاجر البقالة بالولايات المتحدة تُصنف ضمن فئة الأطعمة الفائقة المعالجة، ما يثير مخاوف جدية بشأن تأثيرها المحتمل على صحة الرضع والأطفال الصغار على المدى الطويل.",
+      "url": "https://sarabic.ae/20260211/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A3%D8%BA%D9%84%D8%A8-%D8%A3%D8%BA%D8%B0%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%81%D8%A7%D8%A6%D9%82%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9--1110254107.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/102288/62/1022886220_0:321:3600:2346_2072x0_60_0_0_e9f739845d2ddc54329bce8e85f00837.jpg.webp",
+      "publishedAt": "2026-02-11T13:17:32Z",
+      "content": "71% : (36%) (29%) (19%) (19%) 105 ."
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/11/21076-1762632261.jpg?resize=1200%2C630",
       "publishedAt": "2026-02-07T04:27:00Z",
       "content": "(American Heart Association) (Stroke) .\r\n .\r\n .\r\n :\r\n .\r\n ()\r\n:\r\n .\r\n :"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "منتخب المغرب يوضح حقيقة استقالة المدرب وليد الركراكي من منصبه",
-      "description": "نفى الاتحاد المغربي لكرة القدم عبر حساباته في منصات التواصل الاجتماعي، الجمعة، صحة تقارير صحفية قد زعمت باستقالة مدرب منتخب \"أسود الأطلس\"، وليد الركراكي، من منصبه.",
-      "url": "https://arabic.cnn.com/sport/article/2026/02/06/walid-regragui-morocco-national-team",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_29,w_3003,h_1690,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/06/images/322652.jpg",
-      "publishedAt": "2026-02-06T18:28:09Z",
-      "content": ""
     }
   ]
 }
