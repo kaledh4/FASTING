@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-02-14T06:42:52.171784",
+  "updated_at": "2026-02-15T06:52:03.950419",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "اليمن.. شائعة \"شيخ روحاني\" عن \"كهف ذهب\" تدفع فيديو مُضلل للرواج",
+      "description": "نفت الهيئة العامة للآثار والمتاحف في اليمن، مساء الخميس، صحة العثور على كهف أثري مليىء بالذهب في محافظة عمران شمالي صنعاء، حيث نطاق سيطرة جماعة الحوثي، بينما انتشرت مقاطع فيديو للترويج للادعاء.",
+      "url": "https://arabic.cnn.com/middle-east/article/2026/02/13/ai-trending-video-cave-full-of-gold-in-yemen",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/02/13/images/323232.jpg",
+      "publishedAt": "2026-02-13T12:06:41Z",
+      "content": "(CNN)-- .\r\n .   \r\n : \" .. 40 \".\r\n\"The Hunter Marcus\" 30 / 2026.\r\n : \" ! \".\r\n- 30 / 2026\r\nHive Moderation .\r\nHive Moderation Credit: Hive Moderation\r\nCNN \"The Hunter Marcus\" .  \r\n \" \" . \r\n 5 .\r\n \" () … [+23 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/01/16/1109505207_0:120:1280:840_2072x0_60_0_0_42c7feed4a187a6f0254659d116dce59.jpg.webp",
       "publishedAt": "2026-02-08T13:34:27Z",
       "content": "https://sarabic.ae/20260208/-----------1110143710.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/01/16/1109505207_0:120:1280:840_1920x0_80_0_0_ba2c2f8368a5ee1d9e26f0a809d520e4.jpg.webp\r\n \" \". . . \".\" . . … [+468 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "زيت الزيتون ومرق الكوارع: هل أطعمة صحة الأمعاء الشائعة في الأسواق مفيدة حقاً؟",
-      "description": "يُقال إن بعض العادات الغذائية تحقق فوائد صحية للأعماء مثل شرب ماء بذور الشيا عند الاستيقاظ، إلى إضافة معجون طحالب البحر إلى مهروس الخضراوات، واحتساء مرق العظام (الكوارع)، فما صحة ذلك؟",
-      "url": "https://www.bbc.com/arabic/articles/czd8pp04ln4o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_arabic/7074/live/4f3d8050-0488-11f1-b998-fbecd777d441.jpg",
-      "publishedAt": "2026-02-08T09:01:04Z",
-      "content": "Getty Images\r\nArticle Information\r\n \" \" .\r\n () \"\" .\r\n .\r\n \"\" \"\" .\r\n .\r\n \" \".\r\n \" \" .\r\n .\r\nGetty Images\r\n\" \" .\r\n : \" \" .\r\n : \" \" . .\r\n : \" \" .\r\n .\r\nGetty Images\r\n(): () 24 .\r\n .\r\n \" \" \" \".\r\n: \"\" .\r\n \"… [+520 chars]"
     }
   ]
 }
