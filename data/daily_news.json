@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-05T09:59:16.513996",
+  "updated_at": "2026-09-06T10:18:05.841513",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "سياسية ألمانية: برلين لم تقدم أي أدلة على مسؤولية روسيا في حادثة الطائرة المسيرة",
+      "description": "أكدت الخبيرة في الشؤون الخارجية لحزب \"تحالف سارة فاجنكنيشت من أجل العقل والعدالة\" الألماني، سيفيم داغدلين، أن الحكومة الألمانية لم تقدم أي أدلة على تورط روسيا في حادثة الطائرة المسيّرة في لايبزيغ، ولم تثبت صحة اتهاماتها.",
+      "url": "https://sarabic.ae/20260905/%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D8%B1%D9%84%D9%8A%D9%86-%D9%84%D9%85-%D8%AA%D9%82%D8%AF%D9%85-%D8%A3%D9%8A-%D8%A3%D8%AF%D9%84%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%81%D9%8A-%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-1116645817.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/04/0b/1099460671_0:87:1472:915_2072x0_60_0_0_268a549ec865d83c34421ac11e0e9602.jpg.webp",
+      "publishedAt": "2026-09-05T04:13:28Z",
+      "content": "https://sarabic.ae/20260905/--------------1116645817.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/04/0b/1099460671_0:87:1472:915_1920x0_80_0_0_2065cd4701464f3fe701563bc205cfbe.jpg.webp\r\n \"\": \" \". \" \". .… [+321 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -118,19 +131,6 @@
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1600,h_840,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/13/images/341493.jpg",
       "publishedAt": "2026-08-18T06:29:22Z",
       "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Iphoneislam.com"
-      },
-      "author": "محمود شرف",
-      "title": "أخبار على الهامش الأسبوع 7 – 13 أغسطس",
-      "description": "أبل تخفض تكلفة شاشات آي-فون 18 برو، وتطور طريقة أكثر ذكاءً للإشعارات، وكاميرتا السيلفي في آي-فون Ultra قد تكونان في الزاوية نفسها، وأبل تؤجل إطلاق آي-فون 18 العادي للعام المقبل، واقيات شاشة آي-فون Ultra تكشف تصميمًا غير متماثل للشاشة، سامسونج تقترب من أبل في …",
-      "url": "https://iphoneislam.com/2026/08/side-news-of-week-07-13-aug-2026/170160",
-      "urlToImage": "https://iphoneislam.com/wp-content/uploads/2026/08/side-news-07-13-aug-2026.jpg",
-      "publishedAt": "2026-08-13T17:30:50Z",
-      "content": "- 18 - Ultra - 18 - Ultra - Grok Bot macOS iOS - 18 256 - 18 …\r\n \r\n«» . . iOS 27 iPadOS 27 macOS 27 .\r\n- 18 \r\nPixel 11 100 Pro 16 12 .\r\n . - 18 . - 18 300 Pro Apple Intelligence .\r\n90 \r\nApple Wallet … [+1158 chars]"
     }
   ]
 }
