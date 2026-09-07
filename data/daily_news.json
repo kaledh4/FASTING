@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-06T10:18:05.841513",
+  "updated_at": "2026-09-07T11:38:11.398185",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "إيران تنفي استهداف منشآت نووية في أصفهان",
+      "description": "نفت العلاقات العامة والإعلام في حرس صاحب الزمان بمحافظة أصفهان، اليوم السبت، صحة الأنباء المتداولة بشأن تعرض المراكز والمنشآت النووية في المحافظة لهجوم أمريكي - إسرائيلي.",
+      "url": "https://sarabic.ae/20260905/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D9%86%D8%B4%D8%A2%D8%AA-%D9%86%D9%88%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B5%D9%81%D9%87%D8%A7%D9%86-1116655733.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07e9/06/15/1101912797_0:0:1000:563_2072x0_60_0_0_fb8cefdcbeee9ca8fc85148bd311eb28.jpg.webp",
+      "publishedAt": "2026-09-05T11:12:36Z",
+      "content": "https://sarabic.ae/20260905/-------1116655733.html\r\nhttps://cdn.img.sarabic.ae/img/07e9/06/15/1101912797_0:0:1000:563_1920x0_80_0_0_1212c2ce9778e90e98a05a5fc00ce27b.jpg.webp\r\n \" \" \"\" . . 31 / / . / .… [+381 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -117,19 +130,6 @@
       "url": "https://arabic.cnn.com/style/article/2026/08/18/beauty-supplements-do-they-really-work",
       "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/10/images/341128.jpg",
       "publishedAt": "2026-08-18T06:46:13Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "ارتفاع الدهون الثلاثية.. أعراض قد لا تظهر باكرًا وتُهدّد قلبك بصمت",
-      "description": "يحتاج الجسم إلى بعض الدهون الثلاثية للحفاظ على صحة جيدة، إلا أنّ ارتفاع مستويات هذه الدهون في الدم قد يزيد من خطر الإصابة بأمراض القلب والسكتة الدماغية.",
-      "url": "https://arabic.cnn.com/science-and-health/article/2026/08/18/symptoms-of-high-triglycerides-do-not-appear-early-yet-they-threaten-your-heart",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1600,h_840,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/13/images/341493.jpg",
-      "publishedAt": "2026-08-18T06:29:22Z",
       "content": ""
     }
   ]
