@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-09-07T11:38:11.398185",
+  "updated_at": "2026-09-08T10:37:25.875745",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "ملابس داخلية ذكية تتيح تتبع الغازات..ماذا تكشف عن صحة أمعائك؟",
+      "description": "يقول الباحثون إن الملابس الداخلية الذكية التي تتيح تتبع الغازات تمنح العلماء وسيلة جديدة لدراسة الغازات المعوية، وقد تساعدهم في اكتساب فهم أعمق لصحة الأمعاء والأمراض المرتبطة بها.",
+      "url": "https://arabic.cnn.com/science-and-health/article/2026/09/07/smart-underwear-fart-tracking-flatulence-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/343456.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-07T09:08:58Z",
+      "content": "(CNN) -- .\r\n\" \" . .\r\n\" \".\r\n95% . \r\n.\r\n. .\r\n\" \" .\r\n. \r\n. . \r\n\"Human Flatus Atlas\" ( ) .\r\n.\r\n\" : \".\r\n.\r\n.\r\n. . .\r\n: \" . \".\r\n. \" . \".\r\n\" \" . 12 . \r\n\"Biosensors and Bioelectronics\" 32 .\r\n500 22 30 . .\r\n.… [+133 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "\"سنتكوم\" تنفي استهداف إيران سفينة عسكرية أمريكية غير مأهولة في مضيق هرمز",
+      "description": "نفت القيادة المركزية الأمريكية \"سنتكوم\" صحة التقارير التي تحدثت عن استهداف إيران سفينة عسكرية أمريكية غير مأهولة في مضيق هرمز.",
+      "url": "https://sarabic.ae/20260906/%D8%B3%D9%86%D8%AA%D9%83%D9%88%D9%85-%D8%AA%D9%86%D9%81%D9%8A-%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%A3%D9%87%D9%88%D9%84%D8%A9-%D9%81%D9%8A-%D9%85%D8%B6%D9%8A%D9%82-%D9%87%D8%B1%D9%85%D8%B2-1116682433.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_2072x0_60_0_0_43fa8d792dbac99e0e8f04e069aa8c3f.jpg.webp",
+      "publishedAt": "2026-09-06T14:12:16Z",
+      "content": "https://sarabic.ae/20260906/------------1116682433.html\r\nhttps://cdn.img.sarabic.ae/img/07ea/08/1c/1116412941_0:156:1501:1000_1920x0_80_0_0_09e03db52245666ebcd3893229e200ab.jpg.webp\r\n \"\" \" \" . \" \" . … [+324 chars]"
+    },
     {
       "source": {
         "id": null,
@@ -105,32 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/reuters_69466e54-1766223444.jpg?resize=1920%2C1440",
       "publishedAt": "2026-08-29T16:13:59Z",
       "content": "6 .\r\n ( 73 ) / 20 .\r\n (27 ) \" \".\r\n 3 2022 .\r\n 100 .\r\n ( ) .\r\n ( ) .\r\n (29 ) \" \" \" \" .\r\n 10 .\r\n \" \" \" \" \" \" \" \".\r\n / 85% .\r\n () ()\r\n- - .\r\n \" \" \" \".\r\n 18 / - - . .\r\n \" \".\r\n .\r\n \" \" (PIMS) 20 / .\r\n \" \"… [+171 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "\"نشر منظومات دفاع جوي تركية بمحيط قصر الرئاسة السورية\".. ما صحة الصورة الرائجة؟",
-      "description": "تناقلت حسابات في وسائل التواصل الاجتماعي صورة، زعمت أنها تظهر منظومات دفاع جوي في محيط قصر الرئاسة السورية، بعد أسبوع من ضربة إسرائيلية طالت مطارًا عسكريًا شمالي غرب البلاد.",
-      "url": "https://arabic.cnn.com/middle-east/article/2026/08/25/ai-turkish-air-defense-systems-at-the-syrian-presidential-palace",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_224,w_4494,h_2528,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/25/images/342512.jpg",
-      "publishedAt": "2026-08-25T17:04:15Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "مكمّلات الجمال بين الوعود التسويقية والواقع.. طبيبة جلد تكشف حدود فعاليتها",
-      "description": "تتزايد شعبية مكمّلات الجمال التي تَعد ببشرة أكثر نضارة، وشعر أقوى، وأظافر أكثر صحة، لكن خلف هذه الوعود يبرز سؤال أساسي: إلى أي مدى تستند فوائدها إلى أدلة علمية، وهل يحتاج إليها الجميع فعلاً؟",
-      "url": "https://arabic.cnn.com/style/article/2026/08/18/beauty-supplements-do-they-really-work",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/08/10/images/341128.jpg",
-      "publishedAt": "2026-08-18T06:46:13Z",
-      "content": ""
     }
   ]
 }
