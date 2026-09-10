@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-09-09T10:47:28.879169",
+  "updated_at": "2026-09-10T10:39:55.946169",
   "tip": "نصيحة اليوم: حافظ على نشاطك البدني وتناول غذاء متوازن.",
   "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Sarabic.ae"
+      },
+      "author": "سبوتنيك عربي",
+      "title": "نتنياهو ينفي تلقي تحذير إماراتي من هجوم \"حماس\" قبل 7 أكتوبر",
+      "description": "نفى مكتب رئيس الوزراء الإسرائيلي بنيامين نتنياهو، أمس الثلاثاء، صحة التقارير الصحفية التي تحدثت عن تلقيه تحذيرًا من دولة الإمارات العربية المتحدة بشأن هجوم محتمل لحركة \"حماس\" الفلسطينية قبل السابع من أكتوبر.",
+      "url": "https://sarabic.ae/20260909/%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%8A%D9%86%D9%81%D9%8A-%D8%AA%D9%84%D9%82%D9%8A-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1-%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A-%D9%85%D9%86-%D9%87%D8%AC%D9%88%D9%85-%D8%AD%D9%85%D8%A7%D8%B3-%D9%82%D8%A8%D9%84-7-%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1-1116772705.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/07ea/09/03/1116606974_0:0:1605:903_2072x0_60_0_0_64cbe56b53e04ef9cb9523b5fa9f5df0.jpg.webp",
+      "publishedAt": "2026-09-09T05:39:14Z",
+      "content": "The Prime Ministers Office:\r\nThe press reports are false. No warning was given to the Prime Minister from the United Arab Emirates before October 7th. If there was any relevant information , it was p… [+120 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tamol.om"
+      },
+      "author": "إسراء الجلاد",
+      "title": "أفضل مصادر البروتين.. أطعمة تعزز العضلات والصحة - التأمل",
+      "description": "يعد البروتين عنصرا أساسيا لبناء العضلات ودعم صحة الجسم، لكن اختيار مصادره الصحية يضمن الحصول على فوائده بشكل أفضل.",
+      "url": "https://tamol.om/health/%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%a7%d9%84%d8%a8%d8%b1%d9%88%d8%aa%d9%8a%d9%86-%d8%a3%d8%b7%d8%b9%d9%85%d8%a9-%d8%aa%d8%b9%d8%b2%d8%b2-%d8%a7%d9%84%d8%b9%d8%b6%d9%84%d8%a7/",
+      "urlToImage": "https://tamol.om/wp-content/uploads/2026/04/23598.png",
+      "publishedAt": "2026-09-08T20:29:29Z",
+      "content": ".\r\n85 31 .\r\n6 .\r\n10 .\r\n85 19 3 .\r\n4 8 .\r\n.\r\n.\r\n.\r\n.\r\n."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "CNN بالعربية",
+      "title": "\"لحظات مروعة لثوران بركان في إندونيسيا\".. ما صحة الفيديو المتداول؟",
+      "description": "تداولت حسابات في وسائل التواصل الاجتماعي مقطع فيديو بدعوى عرضه مشاهد للحظة ثوران بركان \"أناك كراكاتاو\" في أندونيسيا.",
+      "url": "https://arabic.cnn.com/world/article/2026/09/09/ai-generated-video-anak-krakatau-eruption",
+      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/x_0,y_364,w_3838,h_2158,c_crop/w_1920,h_1008,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/09/08/images/343689.jpg",
+      "publishedAt": "2026-09-08T20:24:31Z",
+      "content": "(CNN)--  \" \" .\r\n \" \".\r\n . \r\n. 16 .\r\n  Hive Moderation 99.9%.\r\nHive ModerationCredit: Hive Moderation\r\n(noticiasymasconhernan) .\r\n  \" \" ."
+    },
     {
       "source": {
         "id": "cnn",
@@ -92,45 +131,6 @@
       "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/08/epa_6a7e2217293b-1786651159.jpg?resize=1920%2C1440",
       "publishedAt": "2026-09-02T11:39:00Z",
       "content": "\"\" \" \".\r\n \" \" \" \".\r\n \" \" \" \".\r\n \" \" .\r\n \" \".\r\n .\r\n .\r\n - - \" \".\r\n \" \" .\r\n \" \"   26 / .\r\n 2 / 4 12 ."
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "CNN بالعربية",
-      "title": "من صخب لاس فيغاس إلى هدوء جزيرة إيطالية.. أمريكية تجد حياة جديدة في سردينيا",
-      "description": "بعد أن سئمت سباق الحياة المحموم في الولايات المتحدة، نقلت ديبرا كولتون عائلتها إلى قرية كارلوفورتي الهادئة في جزيرة سردينيا الإيطالية، بحثًا عن حياة أكثر صحة ومجتمع متماسك تسوده الألفة.",
-      "url": "https://arabic.cnn.com/travel/article/2026/08/30/sardinia-las-vegas-carloforte-italy",
-      "urlToImage": "https://cnn-arabic-images.cnn.io/cloudinary/image/upload/w_1600,h_840,c_fill,q_auto,g_center/t_cnnarabic_watermark_logo_v5/cnnarabic/2026/07/27/images/339862.jpg",
-      "publishedAt": "2026-08-30T13:19:32Z",
-      "content": ""
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Swalif.net"
-      },
-      "author": "Ayman abdallah",
-      "title": "كيفية معرفة صحة بطارية MacBook وعدد دورات الشحن",
-      "description": "تعرف على كيفية فحص صحة بطارية MacBook ومعرفة Maximum Capacity وعدد دورات الشحن Cycle Count، وكيف تفهم الأرقام وتعرف متى تحتاج البطارية إلى الصيانة أو الاستبدال.\nThe post كيفية معرفة صحة بطارية MacBook وعدد دورات الشحن appeared first on سوالف سوفت.",
-      "url": "https://www.swalif.net/%d8%b4%d8%b1%d8%ad/%d8%b5%d8%ad%d8%a9-%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-macbook/",
-      "urlToImage": "https://www.swalif.net/swalifsite/wp-content/uploads/كيفية-معرفة-صحة-بطارية-MacBook-وعدد-دورات-الشحن.avif",
-      "publishedAt": "2026-08-30T11:14:58Z",
-      "content": "MacBook \r\nMacBook MacBook . 100% .\r\n macOS Battery Health Maximum Capacity Cycle Count. .\r\nMacBook Apple menu System Settings Battery Battery Health. Maximum Capacity. Option Apple menu System Inform… [+2140 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aljazeera.net"
-      },
-      "author": "حبيب أبو محفوظ",
-      "title": "قلق وخفقان وعزلة.. عائلة عمران خان تثير تساؤلات حول ظروف سجنه",
-      "description": "تتواصل المخاوف بشأن صحة عمران خان داخل السجن، وسط اتهامات من عائلته للحكومة بالتضييق عليه، في حين تنفي إسلام آباد ذلك مؤكدة تلقيه الرعاية الطبية والتواصل مع الزوار.",
-      "url": "https://www.aljazeera.net/news/2026/8/29/%d8%a3%d9%8a%d9%86-%d8%a7%d9%84%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d8%a3%d8%a8%d9%86%d8%a7%d8%a1-%d8%b9%d9%85%d8%b1%d8%a7%d9%86-%d8%ae%d8%a7%d9%86",
-      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2025/12/reuters_69466e54-1766223444.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-29T16:13:59Z",
-      "content": "6 .\r\n ( 73 ) / 20 .\r\n (27 ) \" \".\r\n 3 2022 .\r\n 100 .\r\n ( ) .\r\n ( ) .\r\n (29 ) \" \" \" \" .\r\n 10 .\r\n \" \" \" \" \" \" \" \".\r\n / 85% .\r\n () ()\r\n- - .\r\n \" \" \" \".\r\n 18 / - - . .\r\n \" \".\r\n .\r\n \" \" (PIMS) 20 / .\r\n \" \"… [+171 chars]"
     }
   ]
 }
